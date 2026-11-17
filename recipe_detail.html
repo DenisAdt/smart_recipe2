@@ -1,0 +1,428 @@
+<!DOCTYPE html><html class="scroll-smooth" lang="en" style=""><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Recipe Detail - Smart Recipe Planner</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "surface-variant": "#e4e2df",
+                      "on-tertiary-container": "#ffe6dd",
+                      "tertiary": "#823f20",
+                      "tertiary-container": "#a05636",
+                      "surface-bright": "#fbf9f6",
+                      "tertiary-fixed-dim": "#ffb597",
+                      "surface-container-low": "#f5f3f0",
+                      "background": "#fbf9f6",
+                      "tertiary-fixed": "#ffdbcd",
+                      "error": "#ba1a1a",
+                      "inverse-on-surface": "#f2f0ed",
+                      "on-secondary-fixed-variant": "#604100",
+                      "on-error": "#ffffff",
+                      "on-tertiary-fixed-variant": "#743417",
+                      "on-primary-fixed": "#111f09",
+                      "primary-fixed": "#d5e9c5",
+                      "on-error-container": "#93000a",
+                      "on-tertiary": "#ffffff",
+                      "primary": "#46573b",
+                      "inverse-surface": "#30312f",
+                      "surface-container": "#efeeeb",
+                      "on-secondary": "#ffffff",
+                      "surface-container-high": "#eae8e5",
+                      "secondary-fixed-dim": "#f4bd61",
+                      "on-tertiary-fixed": "#360f00",
+                      "outline": "#75786f",
+                      "surface-dim": "#dbdad7",
+                      "on-secondary-fixed": "#281900",
+                      "secondary": "#7e5700",
+                      "on-surface": "#1b1c1a",
+                      "on-primary-fixed-variant": "#3b4b31",
+                      "on-primary": "#ffffff",
+                      "on-surface-variant": "#444840",
+                      "error-container": "#ffdad6",
+                      "on-primary-container": "#def1cd",
+                      "inverse-primary": "#baccaa",
+                      "on-background": "#1b1c1a",
+                      "outline-variant": "#c5c8bd",
+                      "surface-tint": "#536347",
+                      "surface-container-lowest": "#ffffff",
+                      "secondary-fixed": "#ffdeac",
+                      "primary-container": "#5e6f52",
+                      "on-secondary-container": "#765100",
+                      "surface": "#fbf9f6",
+                      "surface-container-highest": "#e4e2df",
+                      "primary-fixed-dim": "#baccaa",
+                      "secondary-container": "#fec668"
+              },
+              "borderRadius": {
+                      "DEFAULT": "0.25rem",
+                      "lg": "0.5rem",
+                      "xl": "0.75rem",
+                      "full": "9999px"
+              },
+              "spacing": {
+                      "base": "8px",
+                      "gutter": "16px",
+                      "xs": "4px",
+                      "lg": "24px",
+                      "md": "16px",
+                      "sm": "8px",
+                      "container-padding": "20px",
+                      "xl": "32px"
+              },
+              "fontFamily": {
+                      "body-sm": [
+                              "Inter"
+                      ],
+                      "label-md": [
+                              "Inter"
+                      ],
+                      "label-sm": [
+                              "Inter"
+                      ],
+                      "headline-lg": [
+                              "Inter"
+                      ],
+                      "headline-md": [
+                              "Inter"
+                      ],
+                      "body-md": [
+                              "Inter"
+                      ],
+                      "headline-sm": [
+                              "Inter"
+                      ],
+                      "body-lg": [
+                              "Inter"
+                      ],
+                      "headline-lg-mobile": [
+                              "Inter"
+                      ]
+              },
+              "fontSize": {
+                      "body-sm": [
+                              "14px",
+                              {
+                                      "lineHeight": "20px",
+                                      "fontWeight": "400"
+                              }
+                      ],
+                      "label-md": [
+                              "14px",
+                              {
+                                      "lineHeight": "20px",
+                                      "letterSpacing": "0.01em",
+                                      "fontWeight": "500"
+                              }
+                      ],
+                      "label-sm": [
+                              "12px",
+                              {
+                                      "lineHeight": "16px",
+                                      "letterSpacing": "0.05em",
+                                      "fontWeight": "600"
+                              }
+                      ],
+                      "headline-lg": [
+                              "32px",
+                              {
+                                      "lineHeight": "40px",
+                                      "letterSpacing": "-0.02em",
+                                      "fontWeight": "600"
+                              }
+                      ],
+                      "headline-md": [
+                              "24px",
+                              {
+                                      "lineHeight": "32px",
+                                      "letterSpacing": "-0.01em",
+                                      "fontWeight": "600"
+                              }
+                      ],
+                      "body-md": [
+                              "16px",
+                              {
+                                      "lineHeight": "24px",
+                                      "fontWeight": "400"
+                              }
+                      ],
+                      "headline-sm": [
+                              "20px",
+                              {
+                                      "lineHeight": "28px",
+                                      "fontWeight": "600"
+                              }
+                      ],
+                      "body-lg": [
+                              "18px",
+                              {
+                                      "lineHeight": "28px",
+                                      "fontWeight": "400"
+                              }
+                      ],
+                      "headline-lg-mobile": [
+                              "28px",
+                              {
+                                      "lineHeight": "36px",
+                                      "letterSpacing": "-0.02em",
+                                      "fontWeight": "600"
+                              }
+                      ]
+              }
+      },
+          },
+        }
+      </script>
+<style>
+        body {
+            background-color: #fbf9f6;
+            color: #1b1c1a;
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        .ambient-shadow {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+        }
+        
+        .floating-shadow {
+            box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+        }
+
+        .hero-clip {
+            clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+        }
+        
+        /* Custom Checkbox Style */
+        .check-step:checked + label {
+            color: #75786f;
+            text-decoration: line-through;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="min-h-screen pb-32">
+<!-- Top Navigation (Task-focused, so no bottom nav, but a back button is needed) -->
+<header class="fixed top-0 w-full z-50 bg-surface-container-lowest/95 backdrop-blur-md border-b border-surface-variant/20 transition-all duration-300 shadow-sm" id="topNav">
+<div class="flex justify-between items-center w-full px-container-padding py-md">
+<button class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-highest/50 text-on-surface hover:bg-surface-variant transition-colors group">
+<span class="material-symbols-outlined group-active:scale-90 transition-transform duration-200">arrow_back</span>
+</button>
+<div class="flex gap-2">
+
+<button class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-highest/50 text-on-surface hover:bg-surface-variant transition-colors group">
+<span class="material-symbols-outlined group-active:scale-90 transition-transform duration-200">share</span>
+</button>
+</div>
+</div>
+</header>
+<main class="max-w-3xl mx-auto">
+<!-- Hero Section -->
+<section class="relative w-full h-[442px] min-h-[400px] mb-lg overflow-hidden hero-clip bg-surface-container">
+<img class="w-full h-full object-cover" data-alt="Top down view of a beautifully plated rustic mushroom risotto on a matte ceramic plate. The dish is garnished with fresh herbs and shaved parmesan. Natural morning light streams across a light wooden farmhouse table, creating soft, organic shadows. Cozy modern organic aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCS9q79civucPPbN1oIIwMBAkkVyau1isu0HibkWWx8eymkNeWKjJTgN0QE6_KFEDgE8hkQKadJ9hG2ScGZuA8mjZlvzY-ZyLsLGfWX_9yLOJwrblYWcsk9ygBqdV8CPIKhv7hTz2ryrOeiPUU4A5oouLtF_Tn1NdBqdF1TKleoYglPkgQhlXHelWIG5MNPJ7DfLB7Y9B1kPHzZs9Kxumnt41niIltjY8YAjXqQjtJhGjEzC4w0jFkW">
+<div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+</section>
+<div class="px-container-padding -mt-xl relative z-10">
+<!-- Header Info Card -->
+<div class="bg-surface-container-lowest rounded-xl p-lg ambient-shadow border border-[#E9E2DA] mb-xl">
+<div class="flex flex-wrap gap-2 mb-sm">
+<span class="px-3 py-1 rounded-full bg-surface-container-low text-secondary font-label-sm text-label-sm">Dinner</span>
+<span class="px-3 py-1 rounded-full bg-surface-container-low text-secondary font-label-sm text-label-sm">Vegetarian</span>
+</div>
+<h1 class="font-headline-lg-mobile md:font-headline-lg text-headline-lg-mobile md:text-headline-lg text-on-surface mb-sm">Creamy Wild Mushroom Risotto</h1>
+<p class="font-body-md text-body-md text-on-surface-variant mb-lg">A comforting, rich Italian classic made with arborio rice, a blend of wild mushrooms, and a touch of white wine.</p>
+<div class="flex items-center gap-6 border-t border-surface-variant/30 pt-md">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 0;">schedule</span>
+<div>
+<p class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Time</p>
+<p class="font-label-md text-label-md text-on-surface">45 mins</p>
+</div>
+</div>
+<div class="w-px h-8 bg-surface-variant/50"></div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 0;">restaurant</span>
+<div>
+<p class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Difficulty</p>
+<p class="font-label-md text-label-md text-on-surface">Medium</p>
+</div>
+</div>
+
+
+</div>
+</div>
+<!-- Main Content Grid -->
+<div class="grid grid-cols-1 md:grid-cols-12 gap-xl">
+<!-- Ingredients Column -->
+<div class="md:col-span-4 space-y-lg">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-2">
+<span class="material-symbols-outlined text-outline">kitchen</span>
+                        Ingredients
+                    </h2>
+<div class="bg-surface-container-lowest rounded-xl p-md ambient-shadow border border-[#E9E2DA]">
+
+<ul class="space-y-4">
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Arborio Rice</span>
+<span class="font-label-md text-label-md text-on-surface-variant">1 cup</span>
+</li>
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Mixed Mushrooms</span>
+<span class="font-label-md text-label-md text-on-surface-variant">250g</span>
+</li>
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Vegetable Broth</span>
+<span class="font-label-md text-label-md text-on-surface-variant">4 cups</span>
+</li>
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Dry White Wine</span>
+<span class="font-label-md text-label-md text-on-surface-variant">1/2 cup</span>
+</li>
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Parmesan Cheese</span>
+<span class="font-label-md text-label-md text-on-surface-variant">1/2 cup</span>
+</li>
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Shallot</span>
+<span class="font-label-md text-label-md text-on-surface-variant">1</span>
+</li>
+<li class="flex justify-between items-start">
+<span class="font-body-md text-body-md text-on-surface">Butter</span>
+<span class="font-label-md text-label-md text-on-surface-variant">2 tbsp</span>
+</li>
+</ul>
+
+</div>
+</div>
+<!-- Cooking Steps Column -->
+<div class="md:col-span-8 space-y-lg">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-2">
+<span class="material-symbols-outlined text-outline">blender</span>
+                        Cooking Steps
+                    </h2>
+<div class="space-y-md">
+<!-- Step 1 -->
+<div class="bg-surface-container-lowest rounded-xl p-md ambient-shadow border border-[#E9E2DA] flex gap-md items-start group">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-primary-container text-on-primary-container flex items-center justify-center font-label-md text-label-md">1</div>
+<div class="flex-1">
+<h3 class="font-label-md text-label-md text-on-surface mb-1">Prepare the broth</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-3">In a medium saucepan, bring the vegetable broth to a gentle simmer. Keep it warm over low heat.</p>
+
+</div>
+</div>
+<!-- Step 2 -->
+<div class="bg-surface-container-lowest rounded-xl p-md ambient-shadow border border-[#E9E2DA] flex gap-md items-start group">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-surface-container text-on-surface flex items-center justify-center font-label-md text-label-md">2</div>
+<div class="flex-1">
+<h3 class="font-label-md text-label-md text-on-surface mb-1">Sauté mushrooms &amp; aromatics</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-3">In a large, heavy-bottomed pan, melt 1 tbsp butter over medium heat. Add chopped mushrooms and sauté until browned. Remove half for garnish. Add remaining butter and finely chopped shallot, cooking until translucent.</p>
+
+</div>
+</div>
+<!-- Step 3 -->
+<div class="bg-surface-container-lowest rounded-xl p-md ambient-shadow border border-[#E9E2DA] flex gap-md items-start group">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-surface-container text-on-surface flex items-center justify-center font-label-md text-label-md">3</div>
+<div class="flex-1">
+<h3 class="font-label-md text-label-md text-on-surface mb-1">Toast rice and deglaze</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-3">Add the arborio rice to the pan and stir constantly for 1-2 minutes until edges become slightly translucent. Pour in the white wine and stir until completely absorbed by the rice.</p>
+
+</div>
+</div>
+<!-- Step 4 -->
+<div class="bg-surface-container-lowest rounded-xl p-md ambient-shadow border border-[#E9E2DA] flex gap-md items-start group">
+<div class="flex-shrink-0 w-8 h-8 rounded-full bg-surface-container text-on-surface flex items-center justify-center font-label-md text-label-md">4</div>
+<div class="flex-1">
+<h3 class="font-label-md text-label-md text-on-surface mb-1">Gradually add broth</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed mb-3">Begin adding the warm broth one ladle at a time, stirring frequently. Wait until the liquid is almost completely absorbed before adding the next ladle. Continue until rice is creamy but still al dente (about 20 mins).</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Research Footer: Why this recipe? -->
+<div class="mt-xl pt-lg border-t border-surface-variant/50">
+<h2 class="font-headline-sm text-headline-sm text-on-surface flex items-center gap-2 mb-md">
+<span class="material-symbols-outlined text-tertiary">psychology</span>
+                    Why this recipe?
+                </h2>
+<div class="bg-inverse-surface rounded-xl p-lg text-inverse-on-surface relative overflow-hidden">
+<!-- Subtle background decoration -->
+<span class="material-symbols-outlined absolute -bottom-10 -right-10 text-[120px] opacity-5 rotate-12 select-none pointer-events-none">analytics</span>
+<div class="relative z-10 grid grid-cols-1 md:grid-cols-2 gap-lg">
+<div>
+<p class="font-body-md text-body-md mb-md text-inverse-on-surface/80">This recipe matches your selected ingredients.</p>
+<div class="space-y-4">
+<div>
+<div class="flex justify-between items-end mb-1">
+<span class="font-label-sm text-label-sm text-inverse-on-surface/60 uppercase tracking-widest">Ingredient Match</span>
+<span class="font-headline-md text-headline-md text-primary-fixed">85%</span>
+</div>
+<div class="h-2 w-full bg-inverse-on-surface/20 rounded-full overflow-hidden">
+<div class="h-full bg-primary-fixed rounded-full" style="width: 85%;"></div>
+</div>
+</div>
+<div class="space-y-4">
+  <div>
+    <p class="font-label-sm text-label-sm text-inverse-on-surface/60 uppercase mb-2">Matched Ingredients</p>
+    <ul class="space-y-1 font-body-sm text-body-sm">
+      <li class="flex items-center gap-2"><span class="">✔</span> Rice</li>
+      <li class="flex items-center gap-2"><span class="">✔</span> Mushrooms</li>
+      <li class="flex items-center gap-2"><span class="">✔</span> Wine</li>
+      <li class="flex items-center gap-2"><span class="">✔</span> Butter</li>
+      <li class="flex items-center gap-2"><span class="">✔</span> Shallot</li>
+    </ul>
+  </div>
+  <div>
+    <p class="font-label-sm text-label-sm text-inverse-on-surface/60 uppercase mb-2">Missing Ingredients</p>
+    <ul class="space-y-1 font-body-sm text-body-sm text-error-container">
+      <li class="flex items-center gap-2"><span class="">✖</span> Parmesan</li>
+      <li class="flex items-center gap-2"><span class="">✖</span> Veg Broth</li>
+    </ul>
+  </div>
+</div>
+</div>
+</div>
+<div class="flex flex-col justify-center items-center md:items-end text-center md:text-right border-t md:border-t-0 md:border-l border-inverse-on-surface/10 pt-md md:pt-0 md:pl-md">
+
+<div>
+<p class="font-label-sm text-label-sm text-inverse-on-surface/60 uppercase tracking-widest mb-1">BM25 SCORE</p>
+<p class="font-body-sm text-body-sm text-inverse-on-surface/80 font-mono">14.28</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Floating Action Button (Cook Mode) -->
+
+<script>
+        // Simple scroll effect for TopNav
+        window.addEventListener('scroll', () => {
+            const nav = document.getElementById('topNav');
+            if (window.scrollY > 50) {
+                nav.classList.add('shadow-sm');
+                nav.classList.replace('bg-background/80', 'bg-surface-container-lowest/95');
+            } else {
+                nav.classList.remove('shadow-sm');
+                nav.classList.replace('bg-surface-container-lowest/95', 'bg-background/80');
+            }
+        });
+    </script>
+
+
+
+
+</body></html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html><html class="light" lang="en" style=""><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Smart Recipe Planner - Evaluation</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-variant": "#e4e2df",
+                        "on-tertiary-container": "#ffe6dd",
+                        "tertiary": "#823f20",
+                        "tertiary-container": "#a05636",
+                        "surface-bright": "#fbf9f6",
+                        "tertiary-fixed-dim": "#ffb597",
+                        "surface-container-low": "#f5f3f0",
+                        "background": "#fbf9f6",
+                        "tertiary-fixed": "#ffdbcd",
+                        "error": "#ba1a1a",
+                        "inverse-on-surface": "#f2f0ed",
+                        "on-secondary-fixed-variant": "#604100",
+                        "on-error": "#ffffff",
+                        "on-tertiary-fixed-variant": "#743417",
+                        "on-primary-fixed": "#111f09",
+                        "primary-fixed": "#d5e9c5",
+                        "on-error-container": "#93000a",
+                        "on-tertiary": "#ffffff",
+                        "primary": "#46573b",
+                        "inverse-surface": "#30312f",
+                        "surface-container": "#efeeeb",
+                        "on-secondary": "#ffffff",
+                        "surface-container-high": "#eae8e5",
+                        "secondary-fixed-dim": "#f4bd61",
+                        "on-tertiary-fixed": "#360f00",
+                        "outline": "#75786f",
+                        "surface-dim": "#dbdad7",
+                        "on-secondary-fixed": "#281900",
+                        "secondary": "#7e5700",
+                        "on-surface": "#1b1c1a",
+                        "on-primary-fixed-variant": "#3b4b31",
+                        "on-primary": "#ffffff",
+                        "on-surface-variant": "#444840",
+                        "error-container": "#ffdad6",
+                        "on-primary-container": "#def1cd",
+                        "inverse-primary": "#baccaa",
+                        "on-background": "#1b1c1a",
+                        "outline-variant": "#c5c8bd",
+                        "surface-tint": "#536347",
+                        "surface-container-lowest": "#ffffff",
+                        "secondary-fixed": "#ffdeac",
+                        "primary-container": "#5e6f52",
+                        "on-secondary-container": "#765100",
+                        "surface": "#fbf9f6",
+                        "surface-container-highest": "#e4e2df",
+                        "primary-fixed-dim": "#baccaa",
+                        "secondary-container": "#fec668"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "base": "8px",
+                        "gutter": "16px",
+                        "xs": "4px",
+                        "lg": "24px",
+                        "md": "16px",
+                        "sm": "8px",
+                        "container-padding": "20px",
+                        "xl": "32px"
+                    },
+                    "fontFamily": {
+                        "body-sm": ["Inter"],
+                        "label-md": ["Inter"],
+                        "label-sm": ["Inter"],
+                        "headline-lg": ["Inter"],
+                        "headline-md": ["Inter"],
+                        "body-md": ["Inter"],
+                        "headline-sm": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "headline-lg-mobile": ["Inter"]
+                    },
+                    "fontSize": {
+                        "body-sm": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "label-md": ["14px", { "lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "500" }],
+                        "label-sm": ["12px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+                        "headline-md": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "headline-lg-mobile": ["28px", { "lineHeight": "36px", "letterSpacing": "-0.02em", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body { background-color: theme('colors.background'); color: theme('colors.on-background'); }
+        .glass-card { background: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); border: 1px solid #E9E2DA; box-shadow: 0 4px 12px rgba(0,0,0,0.04); }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="antialiased min-h-screen pb-32">
+<!-- Top App Bar (Desktop) -->
+<header class="hidden md:flex justify-between items-center w-full px-container-padding py-md bg-background dark:bg-background top-0 z-40 sticky">
+<div class="flex items-center gap-md">
+<span class="font-headline-sm text-headline-sm font-semibold text-primary dark:text-primary-fixed">Good Morning</span>
+</div>
+<nav class="flex gap-lg">
+<a class="text-on-surface-variant font-medium hover:opacity-80 transition-opacity" href="#">Home</a>
+<a class="text-on-surface-variant font-medium hover:opacity-80 transition-opacity" href="#">Search</a>
+<a class="text-primary font-bold hover:opacity-80 transition-opacity" href="#">Evaluation</a>
+<a class="text-on-surface-variant font-medium hover:opacity-80 transition-opacity" href="#">Profile</a>
+</nav>
+<div class="flex items-center gap-sm">
+<button class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center">
+<span class="material-symbols-outlined text-on-surface">notifications</span>
+</button>
+<img class="w-10 h-10 rounded-full object-cover" data-alt="A small, circular user profile photo showing a person in a softly lit, cozy interior environment, consistent with a high-end natural lifestyle aesthetic." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDQH6WeLJCsEkcjnrhTIvZFcItb7UBf32NKTQ-BbjueNjefEKaK1Bmde2IarC8S3vSGk9oyGzGZigm05CUfprG_lFed597wv_eFvp0ACCJ0mXZfnr5X8TOu7dwULkgrvdUeW7t0L9mRTIi1nfTvGxniLDGGr2ITvlI_AibvsJKDuT-jOJsS_Ts2h7abLxiJUq5r0YiSpP2JlAZ-iDBsEZtE9uV_Vqyzw4-qTv8x6TNyl0GbQwYhWzR9">
+</div>
+</header>
+<!-- Main Content -->
+<main class="max-w-4xl mx-auto px-container-padding pt-lg md:pt-xl space-y-xl">
+<header class="space-y-sm">
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile md:font-headline-lg md:text-headline-lg text-on-background">Search Algorithm Evaluation</h1>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-2xl">Compare BM25 and TF-IDF performance using Precision, Recall, Precision@5, Precision@10, and F1-Score.</p>
+</header>
+<!-- Algorithm Selection -->
+<section class="space-y-md">
+<h2 class="font-label-md text-label-md text-on-surface uppercase tracking-wider">Select Algorithm</h2>
+<div class="flex flex-wrap gap-sm">
+<button class="px-md py-sm rounded-full bg-primary-container text-on-primary font-label-md text-label-md transition-all hover:opacity-90">BM25</button>
+<button class="px-md py-sm rounded-full bg-[#F2EEE9] text-on-surface-variant font-label-md text-label-md transition-all hover:bg-surface-variant">BM25 + Stemming</button>
+<button class="px-md py-sm rounded-full bg-[#F2EEE9] text-on-surface-variant font-label-md text-label-md transition-all hover:bg-surface-variant">TF-IDF</button>
+</div>
+<div class="pt-sm">
+<button class="bg-primary text-on-primary font-label-md text-label-md px-lg py-sm rounded-[14px] hover:opacity-90 transition-opacity flex items-center gap-sm" onclick="const btn = this; const originalContent = btn.innerHTML; btn.disabled = true; btn.innerHTML = '&lt;span class=&quot;material-symbols-outlined text-[18px]&quot;&gt;sync&lt;/span&gt; Running...'; setTimeout(() =&gt; { btn.innerHTML = '&lt;span class=&quot;material-symbols-outlined text-[18px]&quot;&gt;check_circle&lt;/span&gt; Completed'; btn.disabled = false; }, 1500);">
+<span class="material-symbols-outlined text-[18px]">play_arrow</span>
+                    Run Evaluation
+                </button>
+</div>
+</section>
+<!-- Results Bento Grid -->
+<section class="grid grid-cols-1 md:grid-cols-3 gap-md">
+<!-- Main Metrics -->
+<div class="glass-card rounded-[16px] p-lg space-y-lg md:col-span-3">
+<h3 class="font-headline-sm text-headline-sm text-on-background">Performance Metrics</h3>
+<div class="grid grid-cols-2 sm:grid-cols-3 gap-lg">
+<div class="space-y-xs">
+<p class="font-label-sm text-label-sm text-on-surface-variant">PRECISION</p>
+<p class="font-headline-md text-headline-md text-primary">0.84</p>
+</div>
+<div class="space-y-xs">
+<p class="font-label-sm text-label-sm text-on-surface-variant">RECALL</p>
+<p class="font-headline-md text-headline-md text-primary">0.76</p>
+</div>
+<div class="space-y-xs">
+<p class="font-label-sm text-label-sm text-on-surface-variant">F1 SCORE</p>
+<p class="font-headline-md text-headline-md text-primary">0.80</p>
+</div>
+<div class="space-y-xs">
+<p class="font-label-sm text-label-sm text-on-surface-variant">PRECISION@5</p>
+<p class="font-headline-md text-headline-md text-on-surface">0.92</p>
+</div>
+<div class="space-y-xs">
+<p class="font-label-sm text-label-sm text-on-surface-variant">PRECISION@10</p>
+<p class="font-headline-md text-headline-md text-on-surface">0.88</p>
+</div>
+</div>
+</div>
+<!-- Context Info -->
+
+<!-- Comparison Chart Placeholder -->
+<div class="glass-card rounded-[16px] p-lg md:col-span-3 space-y-md">
+<h3 class="font-headline-sm text-headline-sm text-on-background mb-lg">Algorithm Comparison (F1 Score)</h3>
+<div class="space-y-md">
+<!-- BM25 Bar -->
+<div class="space-y-xs">
+<div class="flex justify-between font-label-sm text-label-sm">
+<span class="text-on-surface">BM25</span>
+<span class="text-primary font-bold">0.80</span>
+</div>
+<div class="h-4 w-full bg-surface-container-high rounded-full overflow-hidden">
+<div class="h-full bg-primary rounded-full transition-all duration-1000" style="width: 80%"></div>
+</div>
+</div>
+<!-- BM25 + Stemming Bar -->
+<div class="space-y-xs">
+<div class="flex justify-between font-label-sm text-label-sm">
+<span class="text-on-surface">BM25 + Stemming</span>
+<span class="text-on-surface-variant">0.82</span>
+</div>
+<div class="h-4 w-full bg-surface-container-high rounded-full overflow-hidden">
+<div class="h-full bg-secondary rounded-full transition-all duration-1000 opacity-60" style="width: 82%"></div>
+</div>
+</div>
+<!-- TF-IDF Bar -->
+<div class="space-y-xs">
+<div class="flex justify-between font-label-sm text-label-sm">
+<span class="text-on-surface">TF-IDF</span>
+<span class="text-on-surface-variant">0.72</span>
+</div>
+<div class="h-4 w-full bg-surface-container-high rounded-full overflow-hidden">
+<div class="h-full bg-secondary rounded-full transition-all duration-1000 opacity-40" style="width: 72%"></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- BottomNavBar (Mobile) -->
+<nav class="md:hidden fixed bottom-lg left-0 right-0 z-50 flex justify-around items-center px-lg py-sm mx-container-padding bg-surface-container-lowest border border-surface-variant/20 shadow-[0_8px_20px_rgba(0,0,0,0.06)] rounded-full max-w-md left-1/2 -translate-x-1/2 w-[calc(100%-40px)]">
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">home</span>
+<span class="font-label-sm text-label-sm mt-xs">Home</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">search</span>
+<span class="font-label-sm text-label-sm mt-xs">Search</span>
+</a>
+<a class="flex flex-col items-center justify-center text-primary font-semibold hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">analytics</span>
+<span class="font-label-sm text-label-sm mt-xs">Evaluation</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 0;">person</span>
+<span class="font-label-sm text-label-sm mt-xs">Profile</span>
+</a>
+</nav>
+
+
+
+
+</body></html>

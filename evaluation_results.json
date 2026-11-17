@@ -1,0 +1,29 @@
+[
+    {
+        "Method": "BM25 tanpa Stemming",
+        "Precision": 0.9187,
+        "Recall": 0.6334,
+        "F1": 0.7474,
+        "P@5": 0.925,
+        "P@10": 0.925,
+        "Avg Time (ms)": 2.93
+    },
+    {
+        "Method": "BM25 dengan Stemming",
+        "Precision": 0.9375,
+        "Recall": 0.6467,
+        "F1": 0.7628,
+        "P@5": 0.95,
+        "P@10": 0.9375,
+        "Avg Time (ms)": 2.13
+    },
+    {
+        "Method": "TF-IDF dengan Stemming",
+        "Precision": 0.9688,
+        "Recall": 0.6695,
+        "F1": 0.7891,
+        "P@5": 0.95,
+        "P@10": 0.9625,
+        "Avg Time (ms)": 688.28
+    }
+]

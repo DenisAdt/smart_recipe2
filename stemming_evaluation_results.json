@@ -1,0 +1,1285 @@
+{
+  "total_kata_diuji": 182,
+  "stemming_berhasil": 176,
+  "stemming_gagal": 6,
+  "akurasi_persen": 96.7,
+  "rumus": "176/182 x 100% = 96.70%",
+  "detail_berhasil": [
+    {
+      "kata": "adonan",
+      "hasil_sastrawi": "adon",
+      "bentuk_dasar_benar": "adon",
+      "frekuensi": 739,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "ayam",
+      "hasil_sastrawi": "ayam",
+      "bentuk_dasar_benar": "ayam",
+      "frekuensi": 2752,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "bahannya",
+      "hasil_sastrawi": "bahan",
+      "bentuk_dasar_benar": "bahan",
+      "frekuensi": 11,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "bakso",
+      "hasil_sastrawi": "bakso",
+      "bentuk_dasar_benar": "bakso",
+      "frekuensi": 255,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "bawang",
+      "hasil_sastrawi": "bawang",
+      "bentuk_dasar_benar": "bawang",
+      "frekuensi": 10084,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "bayam",
+      "hasil_sastrawi": "bayam",
+      "bentuk_dasar_benar": "bayam",
+      "frekuensi": 38,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "belimbing",
+      "hasil_sastrawi": "belimbing",
+      "bentuk_dasar_benar": "belimbing",
+      "frekuensi": 69,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "beras",
+      "hasil_sastrawi": "beras",
+      "bentuk_dasar_benar": "beras",
+      "frekuensi": 218,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "berbentuk",
+      "hasil_sastrawi": "bentuk",
+      "bentuk_dasar_benar": "bentuk",
+      "frekuensi": 15,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "berbuih",
+      "hasil_sastrawi": "buih",
+      "bentuk_dasar_benar": "buih",
+      "frekuensi": 10,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "berbumbu",
+      "hasil_sastrawi": "bumbu",
+      "bentuk_dasar_benar": "bumbu",
+      "frekuensi": 5,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "berkaldu",
+      "hasil_sastrawi": "kaldu",
+      "bentuk_dasar_benar": "kaldu",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "berminyak",
+      "hasil_sastrawi": "minyak",
+      "bentuk_dasar_benar": "minyak",
+      "frekuensi": 17,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "berwarna",
+      "hasil_sastrawi": "warna",
+      "bentuk_dasar_benar": "warna",
+      "frekuensi": 75,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "cabai",
+      "hasil_sastrawi": "cabai",
+      "bentuk_dasar_benar": "cabai",
+      "frekuensi": 1073,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "cabe",
+      "hasil_sastrawi": "cabe",
+      "bentuk_dasar_benar": "cabe",
+      "frekuensi": 3120,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "campuran",
+      "hasil_sastrawi": "campur",
+      "bentuk_dasar_benar": "campur",
+      "frekuensi": 79,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "daging",
+      "hasil_sastrawi": "daging",
+      "bentuk_dasar_benar": "daging",
+      "frekuensi": 2934,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dagingnya",
+      "hasil_sastrawi": "daging",
+      "bentuk_dasar_benar": "daging",
+      "frekuensi": 63,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "daun",
+      "hasil_sastrawi": "daun",
+      "bentuk_dasar_benar": "daun",
+      "frekuensi": 4087,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "diaduk",
+      "hasil_sastrawi": "aduk",
+      "bentuk_dasar_benar": "aduk",
+      "frekuensi": 134,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "diamkan",
+      "hasil_sastrawi": "diam",
+      "bentuk_dasar_benar": "diam",
+      "frekuensi": 424,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "diangkat",
+      "hasil_sastrawi": "angkat",
+      "bentuk_dasar_benar": "angkat",
+      "frekuensi": 22,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dibakar",
+      "hasil_sastrawi": "bakar",
+      "bentuk_dasar_benar": "bakar",
+      "frekuensi": 32,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dibuang",
+      "hasil_sastrawi": "buang",
+      "bentuk_dasar_benar": "buang",
+      "frekuensi": 35,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dicampurkan",
+      "hasil_sastrawi": "campur",
+      "bentuk_dasar_benar": "campur",
+      "frekuensi": 4,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dicincang",
+      "hasil_sastrawi": "cincang",
+      "bentuk_dasar_benar": "cincang",
+      "frekuensi": 39,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dicuci",
+      "hasil_sastrawi": "cuci",
+      "bentuk_dasar_benar": "cuci",
+      "frekuensi": 72,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "digoreng",
+      "hasil_sastrawi": "goreng",
+      "bentuk_dasar_benar": "goreng",
+      "frekuensi": 292,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dihaluskan",
+      "hasil_sastrawi": "halus",
+      "bentuk_dasar_benar": "halus",
+      "frekuensi": 320,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dihidangkan",
+      "hasil_sastrawi": "hidang",
+      "bentuk_dasar_benar": "hidang",
+      "frekuensi": 235,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "diiris",
+      "hasil_sastrawi": "iris",
+      "bentuk_dasar_benar": "iris",
+      "frekuensi": 229,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dikocok",
+      "hasil_sastrawi": "kocok",
+      "bentuk_dasar_benar": "kocok",
+      "frekuensi": 34,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dikukus",
+      "hasil_sastrawi": "kukus",
+      "bentuk_dasar_benar": "kukus",
+      "frekuensi": 46,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dilumuri",
+      "hasil_sastrawi": "lumur",
+      "bentuk_dasar_benar": "lumur",
+      "frekuensi": 18,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dimasak",
+      "hasil_sastrawi": "masak",
+      "bentuk_dasar_benar": "masak",
+      "frekuensi": 51,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dimasukkan",
+      "hasil_sastrawi": "masuk",
+      "bentuk_dasar_benar": "masuk",
+      "frekuensi": 37,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dipanaskan",
+      "hasil_sastrawi": "panas",
+      "bentuk_dasar_benar": "panas",
+      "frekuensi": 18,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dipanggang",
+      "hasil_sastrawi": "panggang",
+      "bentuk_dasar_benar": "panggang",
+      "frekuensi": 13,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "dipotong",
+      "hasil_sastrawi": "potong",
+      "bentuk_dasar_benar": "potong",
+      "frekuensi": 271,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "direbus",
+      "hasil_sastrawi": "rebus",
+      "bentuk_dasar_benar": "rebus",
+      "frekuensi": 165,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "direndam",
+      "hasil_sastrawi": "rendam",
+      "bentuk_dasar_benar": "rendam",
+      "frekuensi": 37,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "disajikan",
+      "hasil_sastrawi": "saji",
+      "bentuk_dasar_benar": "saji",
+      "frekuensi": 353,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "disaring",
+      "hasil_sastrawi": "saring",
+      "bentuk_dasar_benar": "saring",
+      "frekuensi": 11,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "disiapkan",
+      "hasil_sastrawi": "siap",
+      "bentuk_dasar_benar": "siap",
+      "frekuensi": 17,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "ditiriskan",
+      "hasil_sastrawi": "tiris",
+      "bentuk_dasar_benar": "tiris",
+      "frekuensi": 12,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "diulek",
+      "hasil_sastrawi": "ulek",
+      "bentuk_dasar_benar": "ulek",
+      "frekuensi": 44,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "garam",
+      "hasil_sastrawi": "garam",
+      "bentuk_dasar_benar": "garam",
+      "frekuensi": 5074,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "gorengan",
+      "hasil_sastrawi": "goreng",
+      "bentuk_dasar_benar": "goreng",
+      "frekuensi": 23,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "gula",
+      "hasil_sastrawi": "gula",
+      "bentuk_dasar_benar": "gula",
+      "frekuensi": 3087,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "gulai",
+      "hasil_sastrawi": "gulai",
+      "bentuk_dasar_benar": "gulai",
+      "frekuensi": 104,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "hidangan",
+      "hasil_sastrawi": "hidang",
+      "bentuk_dasar_benar": "hidang",
+      "frekuensi": 16,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "hidupkan",
+      "hasil_sastrawi": "hidup",
+      "bentuk_dasar_benar": "hidup",
+      "frekuensi": 2,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "ikan",
+      "hasil_sastrawi": "ikan",
+      "bentuk_dasar_benar": "ikan",
+      "frekuensi": 1368,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "irisan",
+      "hasil_sastrawi": "iris",
+      "bentuk_dasar_benar": "iris",
+      "frekuensi": 390,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "jahe",
+      "hasil_sastrawi": "jahe",
+      "bentuk_dasar_benar": "jahe",
+      "frekuensi": 1105,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "jeruk",
+      "hasil_sastrawi": "jeruk",
+      "bentuk_dasar_benar": "jeruk",
+      "frekuensi": 1677,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "jintan",
+      "hasil_sastrawi": "jintan",
+      "bentuk_dasar_benar": "jintan",
+      "frekuensi": 44,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kacang",
+      "hasil_sastrawi": "kacang",
+      "bentuk_dasar_benar": "kacang",
+      "frekuensi": 411,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kaldu",
+      "hasil_sastrawi": "kaldu",
+      "bentuk_dasar_benar": "kaldu",
+      "frekuensi": 938,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kangkung",
+      "hasil_sastrawi": "kangkung",
+      "bentuk_dasar_benar": "kangkung",
+      "frekuensi": 41,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "keasinan",
+      "hasil_sastrawi": "asin",
+      "bentuk_dasar_benar": "asin",
+      "frekuensi": 7,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kecap",
+      "hasil_sastrawi": "kecap",
+      "bentuk_dasar_benar": "kecap",
+      "frekuensi": 2256,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kecokelatan",
+      "hasil_sastrawi": "cokelat",
+      "bentuk_dasar_benar": "cokelat",
+      "frekuensi": 22,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "keju",
+      "hasil_sastrawi": "keju",
+      "bentuk_dasar_benar": "keju",
+      "frekuensi": 239,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kelapa",
+      "hasil_sastrawi": "kelapa",
+      "bentuk_dasar_benar": "kelapa",
+      "frekuensi": 194,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kemangi",
+      "hasil_sastrawi": "kemangi",
+      "bentuk_dasar_benar": "kemangi",
+      "frekuensi": 303,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kemanisan",
+      "hasil_sastrawi": "manis",
+      "bentuk_dasar_benar": "manis",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kematangan",
+      "hasil_sastrawi": "matang",
+      "bentuk_dasar_benar": "matang",
+      "frekuensi": 18,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kemiri",
+      "hasil_sastrawi": "kemiri",
+      "bentuk_dasar_benar": "kemiri",
+      "frekuensi": 692,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kentang",
+      "hasil_sastrawi": "kentang",
+      "bentuk_dasar_benar": "kentang",
+      "frekuensi": 523,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "ketumbar",
+      "hasil_sastrawi": "ketumbar",
+      "bentuk_dasar_benar": "ketumbar",
+      "frekuensi": 672,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "koreksi",
+      "hasil_sastrawi": "koreksi",
+      "bentuk_dasar_benar": "koreksi",
+      "frekuensi": 596,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kuahnya",
+      "hasil_sastrawi": "kuah",
+      "bentuk_dasar_benar": "kuah",
+      "frekuensi": 41,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kukusan",
+      "hasil_sastrawi": "kukus",
+      "bentuk_dasar_benar": "kukus",
+      "frekuensi": 40,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "kunyit",
+      "hasil_sastrawi": "kunyit",
+      "bentuk_dasar_benar": "kunyit",
+      "frekuensi": 780,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "lada",
+      "hasil_sastrawi": "lada",
+      "bentuk_dasar_benar": "lada",
+      "frekuensi": 1206,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "lalapan",
+      "hasil_sastrawi": "lalap",
+      "bentuk_dasar_benar": "lalap",
+      "frekuensi": 19,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "larutan",
+      "hasil_sastrawi": "larut",
+      "bentuk_dasar_benar": "larut",
+      "frekuensi": 78,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "lengkuas",
+      "hasil_sastrawi": "lengkuas",
+      "bentuk_dasar_benar": "lengkuas",
+      "frekuensi": 876,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "lumuri",
+      "hasil_sastrawi": "lumur",
+      "bentuk_dasar_benar": "lumur",
+      "frekuensi": 188,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "makanan",
+      "hasil_sastrawi": "makan",
+      "bentuk_dasar_benar": "makan",
+      "frekuensi": 13,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mangga",
+      "hasil_sastrawi": "mangga",
+      "bentuk_dasar_benar": "mangga",
+      "frekuensi": 10,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "margarin",
+      "hasil_sastrawi": "margarin",
+      "bentuk_dasar_benar": "margarin",
+      "frekuensi": 216,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "martabak",
+      "hasil_sastrawi": "martabak",
+      "bentuk_dasar_benar": "martabak",
+      "frekuensi": 17,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "matangnya",
+      "hasil_sastrawi": "matang",
+      "bentuk_dasar_benar": "matang",
+      "frekuensi": 12,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "matikan",
+      "hasil_sastrawi": "mati",
+      "bentuk_dasar_benar": "mati",
+      "frekuensi": 378,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "meleleh",
+      "hasil_sastrawi": "leleh",
+      "bentuk_dasar_benar": "leleh",
+      "frekuensi": 19,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "melunak",
+      "hasil_sastrawi": "lunak",
+      "bentuk_dasar_benar": "lunak",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "memanggang",
+      "hasil_sastrawi": "panggang",
+      "bentuk_dasar_benar": "panggang",
+      "frekuensi": 7,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "memarkan",
+      "hasil_sastrawi": "memar",
+      "bentuk_dasar_benar": "memar",
+      "frekuensi": 145,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "memasak",
+      "hasil_sastrawi": "masak",
+      "bentuk_dasar_benar": "masak",
+      "frekuensi": 51,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "memasukkan",
+      "hasil_sastrawi": "masuk",
+      "bentuk_dasar_benar": "masuk",
+      "frekuensi": 12,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "membakar",
+      "hasil_sastrawi": "bakar",
+      "bentuk_dasar_benar": "bakar",
+      "frekuensi": 5,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "membuang",
+      "hasil_sastrawi": "buang",
+      "bentuk_dasar_benar": "buang",
+      "frekuensi": 7,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "memeras",
+      "hasil_sastrawi": "peras",
+      "bentuk_dasar_benar": "peras",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "memotong",
+      "hasil_sastrawi": "potong",
+      "bentuk_dasar_benar": "potong",
+      "frekuensi": 2,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mencampur",
+      "hasil_sastrawi": "campur",
+      "bentuk_dasar_benar": "campur",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mencampurkan",
+      "hasil_sastrawi": "campur",
+      "bentuk_dasar_benar": "campur",
+      "frekuensi": 2,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mencuci",
+      "hasil_sastrawi": "cuci",
+      "bentuk_dasar_benar": "cuci",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengaduk",
+      "hasil_sastrawi": "aduk",
+      "bentuk_dasar_benar": "aduk",
+      "frekuensi": 5,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengembang",
+      "hasil_sastrawi": "kembang",
+      "bentuk_dasar_benar": "kembang",
+      "frekuensi": 24,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengental",
+      "hasil_sastrawi": "kental",
+      "bentuk_dasar_benar": "kental",
+      "frekuensi": 159,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "menggoreng",
+      "hasil_sastrawi": "goreng",
+      "bentuk_dasar_benar": "goreng",
+      "frekuensi": 189,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "menghaluskan",
+      "hasil_sastrawi": "halus",
+      "bentuk_dasar_benar": "halus",
+      "frekuensi": 4,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengolah",
+      "hasil_sastrawi": "olah",
+      "bentuk_dasar_benar": "olah",
+      "frekuensi": 5,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengukus",
+      "hasil_sastrawi": "kukus",
+      "bentuk_dasar_benar": "kukus",
+      "frekuensi": 8,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengulek",
+      "hasil_sastrawi": "ulek",
+      "bentuk_dasar_benar": "ulek",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mengupas",
+      "hasil_sastrawi": "kupas",
+      "bentuk_dasar_benar": "kupas",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mentega",
+      "hasil_sastrawi": "mentega",
+      "bentuk_dasar_benar": "mentega",
+      "frekuensi": 239,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "mentimun",
+      "hasil_sastrawi": "mentimun",
+      "bentuk_dasar_benar": "mentimun",
+      "frekuensi": 17,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "menuangkan",
+      "hasil_sastrawi": "tuang",
+      "bentuk_dasar_benar": "tuang",
+      "frekuensi": 2,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "menyajikan",
+      "hasil_sastrawi": "saji",
+      "bentuk_dasar_benar": "saji",
+      "frekuensi": 4,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "merah",
+      "hasil_sastrawi": "merah",
+      "bentuk_dasar_benar": "merah",
+      "frekuensi": 5015,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "meratakan",
+      "hasil_sastrawi": "rata",
+      "bentuk_dasar_benar": "rata",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "merebus",
+      "hasil_sastrawi": "rebus",
+      "bentuk_dasar_benar": "rebus",
+      "frekuensi": 72,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "merendam",
+      "hasil_sastrawi": "rendam",
+      "bentuk_dasar_benar": "rendam",
+      "frekuensi": 12,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "merica",
+      "hasil_sastrawi": "merica",
+      "bentuk_dasar_benar": "merica",
+      "frekuensi": 1178,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "minyak",
+      "hasil_sastrawi": "minyak",
+      "bentuk_dasar_benar": "minyak",
+      "frekuensi": 2685,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "nasi",
+      "hasil_sastrawi": "nasi",
+      "bentuk_dasar_benar": "nasi",
+      "frekuensi": 537,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "olahan",
+      "hasil_sastrawi": "olah",
+      "bentuk_dasar_benar": "olah",
+      "frekuensi": 2,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "olesi",
+      "hasil_sastrawi": "oles",
+      "bentuk_dasar_benar": "oles",
+      "frekuensi": 50,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pala",
+      "hasil_sastrawi": "pala",
+      "bentuk_dasar_benar": "pala",
+      "frekuensi": 230,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "panggangan",
+      "hasil_sastrawi": "panggang",
+      "bentuk_dasar_benar": "panggang",
+      "frekuensi": 10,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pecel",
+      "hasil_sastrawi": "pecel",
+      "bentuk_dasar_benar": "pecel",
+      "frekuensi": 25,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pelengkap",
+      "hasil_sastrawi": "lengkap",
+      "bentuk_dasar_benar": "lengkap",
+      "frekuensi": 259,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pembuatan",
+      "hasil_sastrawi": "buat",
+      "bentuk_dasar_benar": "buat",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pemotongan",
+      "hasil_sastrawi": "potong",
+      "bentuk_dasar_benar": "potong",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pempek",
+      "hasil_sastrawi": "pempek",
+      "bentuk_dasar_benar": "pempek",
+      "frekuensi": 27,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pengental",
+      "hasil_sastrawi": "kental",
+      "bentuk_dasar_benar": "kental",
+      "frekuensi": 7,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pengganti",
+      "hasil_sastrawi": "ganti",
+      "bentuk_dasar_benar": "ganti",
+      "frekuensi": 13,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "penggorengan",
+      "hasil_sastrawi": "goreng",
+      "bentuk_dasar_benar": "goreng",
+      "frekuensi": 57,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "penggunaan",
+      "hasil_sastrawi": "guna",
+      "bentuk_dasar_benar": "guna",
+      "frekuensi": 3,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "penyajian",
+      "hasil_sastrawi": "saji",
+      "bentuk_dasar_benar": "saji",
+      "frekuensi": 17,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "penyedap",
+      "hasil_sastrawi": "sedap",
+      "bentuk_dasar_benar": "sedap",
+      "frekuensi": 1189,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "perkedel",
+      "hasil_sastrawi": "perkedel",
+      "bentuk_dasar_benar": "perkedel",
+      "frekuensi": 55,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "peterseli",
+      "hasil_sastrawi": "peterseli",
+      "bentuk_dasar_benar": "peterseli",
+      "frekuensi": 7,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pewarna",
+      "hasil_sastrawi": "warna",
+      "bentuk_dasar_benar": "warna",
+      "frekuensi": 7,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "pisang",
+      "hasil_sastrawi": "pisang",
+      "bentuk_dasar_benar": "pisang",
+      "frekuensi": 84,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "potongan",
+      "hasil_sastrawi": "potong",
+      "bentuk_dasar_benar": "potong",
+      "frekuensi": 274,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "putih",
+      "hasil_sastrawi": "putih",
+      "bentuk_dasar_benar": "putih",
+      "frekuensi": 4907,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "ratakan",
+      "hasil_sastrawi": "rata",
+      "bentuk_dasar_benar": "rata",
+      "frekuensi": 53,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "rebusan",
+      "hasil_sastrawi": "rebus",
+      "bentuk_dasar_benar": "rebus",
+      "frekuensi": 251,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "rendaman",
+      "hasil_sastrawi": "rendam",
+      "bentuk_dasar_benar": "rendam",
+      "frekuensi": 46,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "rendang",
+      "hasil_sastrawi": "rendang",
+      "bentuk_dasar_benar": "rendang",
+      "frekuensi": 33,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "rujak",
+      "hasil_sastrawi": "rujak",
+      "bentuk_dasar_benar": "rujak",
+      "frekuensi": 9,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sambal",
+      "hasil_sastrawi": "sambal",
+      "bentuk_dasar_benar": "sambal",
+      "frekuensi": 675,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sambalnya",
+      "hasil_sastrawi": "sambal",
+      "bentuk_dasar_benar": "sambal",
+      "frekuensi": 14,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "santan",
+      "hasil_sastrawi": "santan",
+      "bentuk_dasar_benar": "santan",
+      "frekuensi": 809,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sapi",
+      "hasil_sastrawi": "sapi",
+      "bentuk_dasar_benar": "sapi",
+      "frekuensi": 1371,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sate",
+      "hasil_sastrawi": "sate",
+      "bentuk_dasar_benar": "sate",
+      "frekuensi": 339,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "saus",
+      "hasil_sastrawi": "saus",
+      "bentuk_dasar_benar": "saus",
+      "frekuensi": 1100,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sayuran",
+      "hasil_sastrawi": "sayur",
+      "bentuk_dasar_benar": "sayur",
+      "frekuensi": 163,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "selada",
+      "hasil_sastrawi": "selada",
+      "bentuk_dasar_benar": "selada",
+      "frekuensi": 35,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "seledri",
+      "hasil_sastrawi": "seledri",
+      "bentuk_dasar_benar": "seledri",
+      "frekuensi": 293,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "serai",
+      "hasil_sastrawi": "serai",
+      "bentuk_dasar_benar": "serai",
+      "frekuensi": 508,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "serundeng",
+      "hasil_sastrawi": "serundeng",
+      "bentuk_dasar_benar": "serundeng",
+      "frekuensi": 6,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "simpan",
+      "hasil_sastrawi": "simpan",
+      "bentuk_dasar_benar": "simpan",
+      "frekuensi": 82,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sirami",
+      "hasil_sastrawi": "siram",
+      "bentuk_dasar_benar": "siram",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "sisihkan",
+      "hasil_sastrawi": "sisih",
+      "bentuk_dasar_benar": "sisih",
+      "frekuensi": 689,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "soto",
+      "hasil_sastrawi": "soto",
+      "bentuk_dasar_benar": "soto",
+      "frekuensi": 44,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "susu",
+      "hasil_sastrawi": "susu",
+      "bentuk_dasar_benar": "susu",
+      "frekuensi": 155,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "taburan",
+      "hasil_sastrawi": "tabur",
+      "bentuk_dasar_benar": "tabur",
+      "frekuensi": 144,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "taburi",
+      "hasil_sastrawi": "tabur",
+      "bentuk_dasar_benar": "tabur",
+      "frekuensi": 164,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "telur",
+      "hasil_sastrawi": "telur",
+      "bentuk_dasar_benar": "telur",
+      "frekuensi": 2505,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "tempe",
+      "hasil_sastrawi": "tempe",
+      "bentuk_dasar_benar": "tempe",
+      "frekuensi": 1858,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "tepung",
+      "hasil_sastrawi": "tepung",
+      "bentuk_dasar_benar": "tepung",
+      "frekuensi": 1896,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "terasi",
+      "hasil_sastrawi": "terasi",
+      "bentuk_dasar_benar": "terasi",
+      "frekuensi": 173,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "terbaik",
+      "hasil_sastrawi": "baik",
+      "bentuk_dasar_benar": "baik",
+      "frekuensi": 1,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "terong",
+      "hasil_sastrawi": "terong",
+      "bentuk_dasar_benar": "terong",
+      "frekuensi": 95,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "tiriskan",
+      "hasil_sastrawi": "tiris",
+      "bentuk_dasar_benar": "tiris",
+      "frekuensi": 596,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "tomat",
+      "hasil_sastrawi": "tomat",
+      "bentuk_dasar_benar": "tomat",
+      "frekuensi": 1640,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "tuangkan",
+      "hasil_sastrawi": "tuang",
+      "bentuk_dasar_benar": "tuang",
+      "frekuensi": 82,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "tumisan",
+      "hasil_sastrawi": "tumis",
+      "bentuk_dasar_benar": "tumis",
+      "frekuensi": 156,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "udang",
+      "hasil_sastrawi": "udang",
+      "bentuk_dasar_benar": "udang",
+      "frekuensi": 1854,
+      "status": "Berhasil"
+    },
+    {
+      "kata": "wortel",
+      "hasil_sastrawi": "wortel",
+      "bentuk_dasar_benar": "wortel",
+      "frekuensi": 820,
+      "status": "Berhasil"
+    }
+  ],
+  "detail_gagal": [
+    {
+      "kata": "ditumis",
+      "hasil_sastrawi": "tum",
+      "bentuk_dasar_benar": "tumis",
+      "frekuensi": 74,
+      "status": "Gagal"
+    },
+    {
+      "kata": "masakan",
+      "hasil_sastrawi": "masakan",
+      "bentuk_dasar_benar": "masak",
+      "frekuensi": 62,
+      "status": "Gagal"
+    },
+    {
+      "kata": "mengering",
+      "hasil_sastrawi": "ering",
+      "bentuk_dasar_benar": "kering",
+      "frekuensi": 36,
+      "status": "Gagal"
+    },
+    {
+      "kata": "mengiris",
+      "hasil_sastrawi": "kir",
+      "bentuk_dasar_benar": "iris",
+      "frekuensi": 2,
+      "status": "Gagal"
+    },
+    {
+      "kata": "menumis",
+      "hasil_sastrawi": "tum",
+      "bentuk_dasar_benar": "tumis",
+      "frekuensi": 386,
+      "status": "Gagal"
+    },
+    {
+      "kata": "pemasakan",
+      "hasil_sastrawi": "masa",
+      "bentuk_dasar_benar": "masak",
+      "frekuensi": 1,
+      "status": "Gagal"
+    }
+  ]
+}

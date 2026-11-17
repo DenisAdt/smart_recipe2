@@ -1,0 +1,12 @@
+{
+  "tables": [
+    "recipes",
+    "evaluation_results",
+    "search_logs"
+  ],
+  "counts": {
+    "recipes": 3000,
+    "evaluation_results": 24,
+    "search_logs": 24
+  }
+}

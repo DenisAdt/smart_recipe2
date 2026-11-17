@@ -1,0 +1,249 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Smart Recipe Planner</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-variant": "#e4e2df",
+                        "on-tertiary-container": "#ffe6dd",
+                        "tertiary": "#823f20",
+                        "tertiary-container": "#a05636",
+                        "surface-bright": "#fbf9f6",
+                        "tertiary-fixed-dim": "#ffb597",
+                        "surface-container-low": "#f5f3f0",
+                        "background": "#fbf9f6",
+                        "tertiary-fixed": "#ffdbcd",
+                        "error": "#ba1a1a",
+                        "inverse-on-surface": "#f2f0ed",
+                        "on-secondary-fixed-variant": "#604100",
+                        "on-error": "#ffffff",
+                        "on-tertiary-fixed-variant": "#743417",
+                        "on-primary-fixed": "#111f09",
+                        "primary-fixed": "#d5e9c5",
+                        "on-error-container": "#93000a",
+                        "on-tertiary": "#ffffff",
+                        "primary": "#46573b",
+                        "inverse-surface": "#30312f",
+                        "surface-container": "#efeeeb",
+                        "on-secondary": "#ffffff",
+                        "surface-container-high": "#eae8e5",
+                        "secondary-fixed-dim": "#f4bd61",
+                        "on-tertiary-fixed": "#360f00",
+                        "outline": "#75786f",
+                        "surface-dim": "#dbdad7",
+                        "on-secondary-fixed": "#281900",
+                        "secondary": "#7e5700",
+                        "on-surface": "#1b1c1a",
+                        "on-primary-fixed-variant": "#3b4b31",
+                        "on-primary": "#ffffff",
+                        "on-surface-variant": "#444840",
+                        "error-container": "#ffdad6",
+                        "on-primary-container": "#def1cd",
+                        "inverse-primary": "#baccaa",
+                        "on-background": "#1b1c1a",
+                        "outline-variant": "#c5c8bd",
+                        "surface-tint": "#536347",
+                        "surface-container-lowest": "#ffffff",
+                        "secondary-fixed": "#ffdeac",
+                        "primary-container": "#5e6f52",
+                        "on-secondary-container": "#765100",
+                        "surface": "#fbf9f6",
+                        "surface-container-highest": "#e4e2df",
+                        "primary-fixed-dim": "#baccaa",
+                        "secondary-container": "#fec668"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "base": "8px",
+                        "gutter": "16px",
+                        "xs": "4px",
+                        "lg": "24px",
+                        "md": "16px",
+                        "sm": "8px",
+                        "container-padding": "20px",
+                        "xl": "32px"
+                    },
+                    "fontFamily": {
+                        "body-sm": ["Inter"],
+                        "label-md": ["Inter"],
+                        "label-sm": ["Inter"],
+                        "headline-lg": ["Inter"],
+                        "headline-md": ["Inter"],
+                        "body-md": ["Inter"],
+                        "headline-sm": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "headline-lg-mobile": ["Inter"]
+                    },
+                    "fontSize": {
+                        "body-sm": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "label-md": ["14px", { "lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "500" }],
+                        "label-sm": ["12px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+                        "headline-md": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "headline-lg-mobile": ["28px", { "lineHeight": "36px", "letterSpacing": "-0.02em", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body {
+            background-color: #fbf9f6; /* bg-background */
+            color: #1b1c1a; /* text-on-background */
+        }
+        /* Hide scrollbar for clean look */
+        ::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        
+        .ambient-shadow {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+        }
+        .nav-shadow {
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="antialiased min-h-screen pb-32">
+<!-- TopAppBar -->
+<header class="flex justify-between items-center w-full px-container-padding py-md bg-background dark:bg-background sticky top-0 z-40">
+<h1 class="font-headline-sm text-headline-sm font-semibold text-primary dark:text-primary-fixed tracking-tight">Good Morning</h1>
+<div class="flex items-center gap-md">
+<button class="w-10 h-10 rounded-full overflow-hidden border border-surface-variant/50 focus:outline-none hover:opacity-80 transition-opacity">
+<img alt="User profile photo" class="w-full h-full object-cover" data-alt="A close up, editorial style profile photo of a person smiling softly in natural morning light. The background is a blurred minimal Scandinavian kitchen. Soft, warm color palette." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDD6Jw1d5vIy38MUobQSSVIgjJhDCHUQAtR3v7an7E-bRfq9zEjBiIHiSWvfPSqG-zJ60ZTzfyPtag9mwuqdEoK2mv2MCZK5n_X1EdVirNnd2671fdE6-m30jf270wPRO1WqUaCFolc-Z1ifEmM2vOEDBemftBINfvncT-0sGJHS0nZvVFtJyX979aHUwio1FyIw6h8BVV3CBFuNF1xHvVMrM9d_Y4iiCMB2Ai6d8LBbBPtpRHbCRP0">
+</button>
+<button class="w-10 h-10 rounded-full flex items-center justify-center text-primary dark:text-primary-fixed hover:opacity-80 transition-opacity focus:outline-none">
+<span class="material-symbols-outlined text-[24px]">notifications</span>
+</button>
+</div>
+</header>
+<main class="px-container-padding flex flex-col gap-xl mt-sm max-w-2xl mx-auto">
+<!-- Search -->
+<section>
+<div class="relative w-full h-[56px]">
+<div class="absolute inset-y-0 left-0 pl-md flex items-center pointer-events-none">
+<span class="material-symbols-outlined text-outline">search</span>
+</div>
+<button class="w-full h-full pl-[48px] pr-md bg-[#F2EEE9] rounded-[12px] border-none focus:ring-1 focus:ring-primary text-on-surface text-outline font-body-md text-body-md shadow-sm transition-all outline-none text-left flex items-center hover:bg-surface-variant">Search ingredients...</button>
+</div>
+</section>
+<!-- Popular Ingredients -->
+<section>
+<h2 class="font-headline-sm text-headline-sm text-on-background mb-md">Popular Ingredients</h2>
+<div class="flex gap-sm overflow-x-auto hide-scrollbar pb-xs -mx-container-padding px-container-padding">
+<button class="flex-shrink-0 px-lg py-[10px] rounded-full bg-primary text-on-primary font-label-md text-label-md whitespace-nowrap shadow-sm hover:opacity-90 transition-opacity">
+                    Tempe
+                </button>
+<button class="flex-shrink-0 px-lg py-[10px] rounded-full bg-[#F2EEE9] text-on-surface-variant font-label-md text-label-md whitespace-nowrap hover:bg-surface-variant transition-colors">
+                    Tofu
+                </button>
+<button class="flex-shrink-0 px-lg py-[10px] rounded-full bg-[#F2EEE9] text-on-surface-variant font-label-md text-label-md whitespace-nowrap hover:bg-surface-variant transition-colors">
+                    Chicken
+                </button>
+<button class="flex-shrink-0 px-lg py-[10px] rounded-full bg-[#F2EEE9] text-on-surface-variant font-label-md text-label-md whitespace-nowrap hover:bg-surface-variant transition-colors">
+                    Broccoli
+                </button>
+<button class="flex-shrink-0 px-lg py-[10px] rounded-full bg-[#F2EEE9] text-on-surface-variant font-label-md text-label-md whitespace-nowrap hover:bg-surface-variant transition-colors">
+                    Salmon
+                </button>
+</div>
+</section>
+<!-- Latest Recipes -->
+<section>
+<div class="flex justify-between items-end mb-md">
+<h2 class="font-headline-sm text-headline-sm text-on-background">Explore Recipes</h2>
+<button class="text-primary font-label-md text-label-md hover:opacity-80">View all</button>
+</div>
+<div class="flex flex-col gap-lg">
+<!-- Recipe Card 1 -->
+<article class="bg-surface-container-lowest rounded-[16px] border border-[#E9E2DA] ambient-shadow overflow-hidden cursor-pointer group hover:scale-[1.01] transition-transform duration-300">
+<div class="w-full h-48 relative overflow-hidden bg-surface-variant">
+<img alt="Roasted Tempe Bowl" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="A top-down editorial photograph of a rustic wooden kitchen table featuring a matte white ceramic plate holding beautifully plated roasted tempe and greens. Soft natural light streams from a side window creating organic shadows. Minimalist, Cozy Modern Organic aesthetic, soft warm tones." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAdhbV7CocVurOQQ27WR_alHn9hZoT_v73Kq1tnCXZqQsPJXOXLZ9NAvhAFuVNhSj0GGciZ9gtNLnjdnOWRN_UNxjQeUvEn4UKLlYpuyMxs1B74gY6u9VIrzrum_-OmHvWc7sTWj9LKgjh2ze25H2ujZFeQGmu7zNxqvpKhcFpnDj5uKHBXieJrvVy-w7YWP4j6myr7abuHmp_K9hO_KuP3oB1GdUd7DrXmtG-vBrHpc4BZCq2AVNP5">
+<div class="absolute top-sm right-sm bg-surface-container-lowest/80 backdrop-blur-sm px-sm py-xs rounded-full flex items-center gap-xs">
+<span class="material-symbols-outlined text-[16px] text-tertiary-container" style="font-variation-settings: 'FILL' 1;">schedule</span>
+<span class="font-label-sm text-label-sm text-on-surface">25 min</span>
+</div>
+</div>
+<div class="p-md">
+<div class="flex gap-xs mb-xs">
+<span class="text-xs font-medium text-tertiary-container tracking-wider uppercase">Dinner</span>
+<span class="text-xs text-outline">•</span>
+<span class="text-xs font-medium text-outline">Vegan</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-on-background mb-xs">Crispy Tempe &amp; Quinoa Bowl</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">A nourishing bowl featuring perfectly crisped tempe, fluffy quinoa, and roasted seasonal greens dressed in a light tahini vinaigrette.</p>
+</div>
+</article>
+<!-- Recipe Card 2 -->
+<article class="bg-surface-container-lowest rounded-[16px] border border-[#E9E2DA] ambient-shadow overflow-hidden cursor-pointer group hover:scale-[1.01] transition-transform duration-300">
+<div class="w-full h-48 relative overflow-hidden bg-surface-variant">
+<img alt="Rustic Chicken Soup" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="A soft focus, highly styled editorial photo of a simple bowl of warm chicken soup on a textured linen placemat. Gentle morning light filtering through a window casts long, soft shadows. Clean, natural, and comforting aesthetic. Scandinavian kitchen vibe." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCTKPHKA-tI9le0R28NeHLFTakhe-lugGTa-TRxR9qZ9LI2KdLsGBcIDgH-nIIjkPSM4ijys3gsCX3XhpUGWBn8c1eGY0qK0iGvos4p5t0n9xh-AhNs83tJZE8evfeSDgo6gDgZGPr44PI1FXWaofrtCiqwOjlpNmUy7osIHdqvvnyJ2Frs-XsfmKK49jgmdNv_C5WdJiSePk9Msy_M7zQjkG90WJ6ekAF_Tpympm88gzEX-a0foEOn">
+<div class="absolute top-sm right-sm bg-surface-container-lowest/80 backdrop-blur-sm px-sm py-xs rounded-full flex items-center gap-xs">
+<span class="material-symbols-outlined text-[16px] text-tertiary-container" style="font-variation-settings: 'FILL' 1;">schedule</span>
+<span class="font-label-sm text-label-sm text-on-surface">45 min</span>
+</div>
+</div>
+<div class="p-md">
+<div class="flex gap-xs mb-xs">
+<span class="text-xs font-medium text-tertiary-container tracking-wider uppercase">Lunch</span>
+<span class="text-xs text-outline">•</span>
+<span class="text-xs font-medium text-outline">Comfort</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-on-background mb-xs">Rustic Herb Chicken Soup</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">Slow-simmered broth with tender pulled chicken, root vegetables, and fresh garden herbs for a warming afternoon meal.</p>
+</div>
+</article>
+</div>
+</section>
+</main>
+<!-- BottomNavBar -->
+<nav class="md:hidden fixed bottom-lg left-0 right-0 z-50 flex justify-around items-center px-lg py-sm mx-container-padding bg-surface-container-lowest dark:bg-surface-container-lowest border border-surface-variant/20 shadow-[0_8px_20px_rgba(0,0,0,0.06)] rounded-full max-w-md left-1/2 -translate-x-1/2 w-[calc(100%-40px)]">
+<!-- Active Tab: Home -->
+<button class="flex flex-col items-center justify-center text-primary dark:text-primary font-semibold hover:bg-surface-container-low rounded-full transition-colors w-16 h-14 group">
+<span class="material-symbols-outlined text-[24px] mb-xs group-active:scale-90 transition-transform duration-150" style="font-variation-settings: 'FILL' 1;">home</span>
+<span class="font-label-sm text-label-sm">Home</span>
+</button>
+<!-- Inactive Tab: Search -->
+<button class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors w-16 h-14 group">
+<span class="material-symbols-outlined text-[24px] mb-xs group-active:scale-90 transition-transform duration-150">search</span>
+<span class="font-label-sm text-label-sm">Search</span>
+</button>
+<!-- Inactive Tab: Evaluation -->
+<button class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors w-16 h-14 group">
+<span class="material-symbols-outlined text-[24px] mb-xs group-active:scale-90 transition-transform duration-150">analytics</span>
+<span class="font-label-sm text-label-sm">Evaluation</span>
+</button>
+<!-- Inactive Tab: Profile -->
+<button class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors w-16 h-14 group">
+<span class="material-symbols-outlined text-[24px] mb-xs group-active:scale-90 transition-transform duration-150">person</span>
+<span class="font-label-sm text-label-sm">Profile</span>
+</button>
+</nav>
+
+
+</body></html>

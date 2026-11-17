@@ -1,0 +1,225 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Smart Recipe Planner - Profile</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+          darkMode: "class",
+          theme: {
+            extend: {
+              "colors": {
+                      "surface-variant": "#e4e2df",
+                      "on-tertiary-container": "#ffe6dd",
+                      "tertiary": "#823f20",
+                      "tertiary-container": "#a05636",
+                      "surface-bright": "#fbf9f6",
+                      "tertiary-fixed-dim": "#ffb597",
+                      "surface-container-low": "#f5f3f0",
+                      "background": "#fbf9f6",
+                      "tertiary-fixed": "#ffdbcd",
+                      "error": "#ba1a1a",
+                      "inverse-on-surface": "#f2f0ed",
+                      "on-secondary-fixed-variant": "#604100",
+                      "on-error": "#ffffff",
+                      "on-tertiary-fixed-variant": "#743417",
+                      "on-primary-fixed": "#111f09",
+                      "primary-fixed": "#d5e9c5",
+                      "on-error-container": "#93000a",
+                      "on-tertiary": "#ffffff",
+                      "primary": "#46573b",
+                      "inverse-surface": "#30312f",
+                      "surface-container": "#efeeeb",
+                      "on-secondary": "#ffffff",
+                      "surface-container-high": "#eae8e5",
+                      "secondary-fixed-dim": "#f4bd61",
+                      "on-tertiary-fixed": "#360f00",
+                      "outline": "#75786f",
+                      "surface-dim": "#dbdad7",
+                      "on-secondary-fixed": "#281900",
+                      "secondary": "#7e5700",
+                      "on-surface": "#1b1c1a",
+                      "on-primary-fixed-variant": "#3b4b31",
+                      "on-primary": "#ffffff",
+                      "on-surface-variant": "#444840",
+                      "error-container": "#ffdad6",
+                      "on-primary-container": "#def1cd",
+                      "inverse-primary": "#baccaa",
+                      "on-background": "#1b1c1a",
+                      "outline-variant": "#c5c8bd",
+                      "surface-tint": "#536347",
+                      "surface-container-lowest": "#ffffff",
+                      "secondary-fixed": "#ffdeac",
+                      "primary-container": "#5e6f52",
+                      "on-secondary-container": "#765100",
+                      "surface": "#fbf9f6",
+                      "surface-container-highest": "#e4e2df",
+                      "primary-fixed-dim": "#baccaa",
+                      "secondary-container": "#fec668"
+              },
+              "borderRadius": {
+                      "DEFAULT": "0.25rem",
+                      "lg": "0.5rem",
+                      "xl": "0.75rem",
+                      "full": "9999px"
+              },
+              "spacing": {
+                      "base": "8px",
+                      "gutter": "16px",
+                      "xs": "4px",
+                      "lg": "24px",
+                      "md": "16px",
+                      "sm": "8px",
+                      "container-padding": "20px",
+                      "xl": "32px"
+              },
+              "fontFamily": {
+                      "body-sm": ["Inter"],
+                      "label-md": ["Inter"],
+                      "label-sm": ["Inter"],
+                      "headline-lg": ["Inter"],
+                      "headline-md": ["Inter"],
+                      "body-md": ["Inter"],
+                      "headline-sm": ["Inter"],
+                      "body-lg": ["Inter"],
+                      "headline-lg-mobile": ["Inter"]
+              },
+              "fontSize": {
+                      "body-sm": ["14px", {"lineHeight": "20px", "fontWeight": "400"}],
+                      "label-md": ["14px", {"lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "500"}],
+                      "label-sm": ["12px", {"lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600"}],
+                      "headline-lg": ["32px", {"lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "600"}],
+                      "headline-md": ["24px", {"lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600"}],
+                      "body-md": ["16px", {"lineHeight": "24px", "fontWeight": "400"}],
+                      "headline-sm": ["20px", {"lineHeight": "28px", "fontWeight": "600"}],
+                      "body-lg": ["18px", {"lineHeight": "28px", "fontWeight": "400"}],
+                      "headline-lg-mobile": ["28px", {"lineHeight": "36px", "letterSpacing": "-0.02em", "fontWeight": "600"}]
+              }
+            },
+          },
+        }
+    </script>
+<style>
+        body {
+            -webkit-tap-highlight-color: transparent;
+        }
+        .ambient-shadow {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+        }
+        .nav-shadow {
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background text-on-background min-h-screen pb-[100px] antialiased">
+<!-- Header (Based on Shared TopAppBar logic, but adapted for standard page layout if needed, here we just use it structurally for top spacing) -->
+<header class="w-full px-container-padding py-md flex justify-between items-center bg-background">
+<h1 class="font-headline-md text-headline-md font-semibold text-primary">Application</h1>
+
+</header>
+<main class="px-container-padding mt-md flex flex-col gap-lg max-w-md mx-auto w-full">
+<!-- User Header -->
+
+<!-- Menu List -->
+<section class="bg-surface-container-lowest rounded-[16px] border border-outline-variant/30 ambient-shadow overflow-hidden">
+<ul class="flex flex-col">
+<!-- Favorites -->
+<li class="">
+<button class="w-full px-md py-lg flex items-center justify-between hover:bg-surface-container-low transition-colors group">
+<div class="flex items-center gap-md">
+<span class="material-symbols-outlined text-primary group-hover:text-primary-container transition-colors" style="font-variation-settings: 'FILL' 0;">favorite</span>
+<span class="font-body-md text-body-md text-on-background group-hover:text-primary transition-colors">Favorites</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/50" style="font-variation-settings: 'FILL' 0;">chevron_right</span>
+</button>
+</li>
+<hr class="border-t border-outline-variant/20 mx-md">
+<!-- Search History -->
+<li class="">
+<button class="w-full px-md py-lg flex items-center justify-between hover:bg-surface-container-low transition-colors group">
+<div class="flex items-center gap-md">
+<span class="material-symbols-outlined text-primary group-hover:text-primary-container transition-colors" style="font-variation-settings: 'FILL' 0;">history</span>
+<span class="font-body-md text-body-md text-on-background group-hover:text-primary transition-colors">Search History</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/50" style="font-variation-settings: 'FILL' 0;">chevron_right</span>
+</button>
+</li>
+<hr class="border-t border-outline-variant/20 mx-md"><li class=""><button class="w-full px-md py-lg flex items-center justify-between hover:bg-surface-container-low transition-colors group"><div class="flex items-center gap-md"><span class="material-symbols-outlined text-primary group-hover:text-primary-container transition-colors" style="font-variation-settings: 'FILL' 0;">database</span><span class="font-body-md text-body-md text-on-background group-hover:text-primary transition-colors">Dataset Information</span></div><span class="material-symbols-outlined text-on-surface-variant/50" style="font-variation-settings: 'FILL' 0;">chevron_right</span></button></li></ul>
+</section>
+<!-- Info Section -->
+<section class="bg-surface-container-lowest rounded-[16px] border border-outline-variant/30 ambient-shadow overflow-hidden">
+<ul class="flex flex-col">
+<!-- About Application -->
+<li class="">
+<button class="w-full px-md py-lg flex items-center justify-between hover:bg-surface-container-low transition-colors group">
+<div class="flex items-center gap-md">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary-container transition-colors" style="font-variation-settings: 'FILL' 0;">info</span>
+<span class="font-body-md text-body-md text-on-background group-hover:text-primary transition-colors">About Application</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/50" style="font-variation-settings: 'FILL' 0;">chevron_right</span>
+</button>
+</li>
+<hr class="border-t border-outline-variant/20 mx-md">
+<!-- About Research -->
+<li class="">
+<button class="w-full px-md py-lg flex items-center justify-between hover:bg-surface-container-low transition-colors group">
+<div class="flex items-center gap-md">
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary-container transition-colors" style="font-variation-settings: 'FILL' 0;">science</span>
+<span class="font-body-md text-body-md text-on-background group-hover:text-primary transition-colors">About Research</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/50" style="font-variation-settings: 'FILL' 0;">chevron_right</span>
+</button>
+</li>
+</ul>
+</section>
+<!-- Version Footer -->
+<div class="text-center mt-md pb-xl">
+<span class="font-label-sm text-label-sm text-on-surface-variant/60 uppercase tracking-widest">Version 1.0.0</span>
+</div>
+</main>
+<!-- BottomNavBar (Shared Component JSON execution) -->
+<nav class="md:hidden fixed bottom-lg left-0 right-0 z-50 flex justify-around items-center px-lg py-sm mx-container-padding bg-surface-container-lowest border border-surface-variant/20 shadow-[0_8px_20px_rgba(0,0,0,0.06)] fixed bottom-base left-1/2 -translate-x-1/2 w-[calc(100%-40px)] rounded-full max-w-md">
+<!-- Home (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined mb-xs" style="font-variation-settings: 'FILL' 0;">home</span>
+<span class="font-label-sm text-label-sm">Home</span>
+</a>
+<!-- Search (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined mb-xs" style="font-variation-settings: 'FILL' 0;">search</span>
+<span class="font-label-sm text-label-sm">Search</span>
+</a>
+<!-- Evaluation (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm" href="#">
+<span class="material-symbols-outlined mb-xs" style="font-variation-settings: 'FILL' 0;">analytics</span>
+<span class="font-label-sm text-label-sm">Evaluation</span>
+</a>
+<!-- Profile (Active) -->
+<a class="flex flex-col items-center justify-center text-primary font-semibold hover:bg-surface-container-low rounded-full transition-colors p-sm active:scale-90 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined mb-xs" style="font-variation-settings: 'FILL' 1;">person</span>
+<span class="font-label-sm text-label-sm">Profile</span>
+</a>
+</nav>
+<!-- Desktop Nav Fallback (Hidden on Mobile) -->
+<div class="hidden md:flex fixed top-0 w-full px-xl py-md bg-background border-b border-surface-variant/20 justify-between items-center z-50">
+<div class="font-headline-sm text-headline-sm font-semibold text-primary">Smart Recipe Planner</div>
+<div class="flex gap-lg">
+<a class="font-body-md text-body-md text-on-surface-variant font-medium hover:opacity-80 transition-opacity" href="#">Home</a>
+<a class="font-body-md text-body-md text-on-surface-variant font-medium hover:opacity-80 transition-opacity" href="#">Search</a>
+<a class="font-body-md text-body-md text-on-surface-variant font-medium hover:opacity-80 transition-opacity" href="#">Evaluation</a>
+<a class="font-body-md text-body-md text-primary font-bold hover:opacity-80 transition-opacity border-b-2 border-primary pb-1" href="#">Profile</a>
+</div>
+</div>
+
+
+
+
+</body></html>

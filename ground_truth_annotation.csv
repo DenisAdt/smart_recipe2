@@ -1,0 +1,2798 @@
+Query,Recipe ID,Recipe Title,BM25 Candidate (Yes/No),TF-IDF Candidate (Yes/No),Category,Ingredients,Relevant (1/0)
+ayam bawang merah bawang putih,2,Ayam Bumbu Bacem,No,Yes,ayam,"500 grm ayam
+2 lmbr daun salam
+secukupnya Gula merah
+Bumbu halus:
+2 siung bawang merah
+2 siung bawang putih
+2 butir kemiri
+1/2 sdt kunyit bubuk
+10 butir merica
+1/2 sdt ketumbar
+secukupnya Jahe
+1/2 sdt garam
+1/2 sdt penyedap rasa (bila perlu)",
+ayam bawang merah bawang putih,13,Ayam Goreng Mentega,No,Yes,ayam,"1 kg ayam
+4 siung bawang putih, haluskan
+1 buah bawang bombay, potong
+Secukupnya merica
+Minyak goreng
+3 sdm mentega
+1 sdt kecap manis
+1 sdt saus tiram
+1 sdt kecap inggris
+Penyedap rasa
+Daun bawang, potong potong",
+ayam bawang merah bawang putih,20,Ayam rica pedas,Yes,Yes,ayam,"5 biji ayam + leher
+5 siung bawang merah
+2 siung bawang putih
+Cabe
+1 butir kemiri
+1 buah asam jawa
+Ketumbar
+Serai
+Daun salam",
+ayam bawang merah bawang putih,25,Ayam Kecap,No,Yes,ayam,"1/2 kg ayam
+1 buah bawang bombay
+3 siung bawang putih
+1 buah tomat
+1 buah cabai merah besar
+5 buah cabai rawit
+1 ruas jahe (digeprek)
+2 lembar daun salam
+5 sendok saos tiram
+Secukupnya kecap manis
+Secukupnya gula
+Secukupnya garam",
+ayam bawang merah bawang putih,30,Ayam Goreng Mentega,No,Yes,ayam,"1 Ekor Ayam (Potong 12)
+1 Buah Jeruk Nipis
+1 Buah Bawang Bombay
+4 Siung Bawang Putih
+Secukupnya Margarin
+Daun Bawang
+2 Sdm Saos Tiram
+2 Sdm Saos Sambel
+5 Kecap Manis
+1 Sdt Merica Bubuk
+Sedikit Garam",
+ayam bawang merah bawang putih,33,Ayam goreng mentega,No,Yes,ayam,"1 dada ayam utuh
+3 bh bawang merah
+2 bh bawang putih
+3 bh kemiri
+1 bh Bawang bombay, iris
+1 lembar daun salam
+Seruas jari laos
+Gula dan garam
+Lada
+1 sdm Kecap manis
+2 sdm mentega
+1 sdt saos tiram
+1 sdm saus sambal
+2 sdm gula pasir",
+ayam bawang merah bawang putih,51,Ayam Geprek Sambel Bawang,No,Yes,ayam,"Bahan untuk sambelnya:
+1 sdm garam
+1/2 sdt gula
+1/2 sdt penyedap rasa ayam
+1/4 buah tomat
+20 buah cabe
+3 buah bawang merah
+2 buah bawang putih
+Minyak goreng (secukupnya)
+Bahan untuk ayamnya:
+Dada ayam (cuci bersih)
+Tepung terigu
+Tepung bumbu crispy",
+ayam bawang merah bawang putih,94,Opor ayam lontong,Yes,No,ayam,"Lontong  5 buah saya beli yg sudah matang
+1/4 kg dada ayam
+Kerupuk merah
+Bumbu halus:
+5 butir bawang merah
+4 butir bawang putih
+Merica
+3 butir kemiri
+1 cm kunyit
+1 cm Jahe
+Cabe merah besar
+Cabe merah keriting
+sesuai selera Gula garam
+Penyedap rasa
+ukuran kecil Santan kara
+Minyak untuk menumis
+Bawang goreng untuk taburan
+Daun salam
+Daun sereh
+Bahan sambal:
+Cabe merah besar
+Cabe merah keriting
+Bawang putih
+secukupnya Garam",
+ayam bawang merah bawang putih,99,Ayam kecap,Yes,Yes,ayam,"250 gram ayam dada
+1 biji kentang
+2 biji tomat
+8 bawang merah
+4 bawang putih
+1/5 bawang bombay
+secukupnya Merica
+1 sdm gula putih
+1/2 sdm garam
+secukupnya Air
+secukupnya Kecap
+3 lombok merah iris tipis
+Bawang goreng",
+ayam bawang merah bawang putih,139,Ayam Geprek,No,Yes,ayam,"4 potong ayam
+8 siung bawang putih dihaluskan
+4 sdm tepung terigu
+1 sdm tepung maizena
+Secukupnya garam
+Secukupnya merica
+Secukupnya kaldu ayam bubuk
+1 butir telur
+Bahan geprek
+4 siung bawang putih
+10 buah cabe rawit
+1 sdt garam
+1 sdt gula",
+ayam bawang merah bawang putih,150,Cilok ayam kuah,Yes,No,ayam,"Bahan cilok :
+250 gram ayam
+250 gram tepung tapioka
+125 gram tepung terigu
+1 siung bawang putih
+Secukupnya bawang merah goreng
+Merica bubuk
+Garam
+Kaldu ayam bubuk
+Bahan kuah :
+3 siung bawang putih
+Secukupnya bawang merah goreng
+1 batang daun bawang
+Merica bubuk
+Garam
+Kaldu ayam bubuk",
+ayam bawang merah bawang putih,152,Ayam betutu daun singkong,Yes,No,ayam,"1 kg ayam
+2 ikat daun singkong
+Royko
+Lada bubuk
+Ketumbar bubuk
+Kunyit bubuk
+Gula
+Bumbu halus:
+Bawang merah
+Bawang putih
+Kemiri
+Jahe
+Kencur
+Cabe merah
+Bumbu rajang :
+Sereh
+Bawang merah
+Bawang putih
+Cabe setan",
+ayam bawang merah bawang putih,158,Ayam Penyet 🔥,No,Yes,ayam,"1/2 Kg Ayam
+1 Bungkus Bumbu Ayam Goreng Instan (saya Racik Indofood)
+Bumbu Yg Dihaluskan :
+13 Buah Cabe Merah Keriting
+26 Buah Cabe Rawit
+4 Siung Bawang Merah
+2 Siung Bawang Putih
+2 Buah Tomat Uk. Besar
+2 Sdt Gula Pasir
+Secukupnya Garam
+Secukupnya Terasi (bakar)",
+ayam bawang merah bawang putih,170,Ayam lada teriyaki,Yes,No,ayam,"1 ekor dada ayam di potong dadu
+5 buah buncis (sesuai selera)
+5 buah cabai rawit jawa
+5 buah cabai merah keriting
+5 buah cabai besar warna hijau (di buang bijinya)
+1 buah bawang bombai
+3 buah bawang merah
+2 bawang putih
+1 sdt garam
+1 saset sauri saus teriyaki
+2 sdt lada bubuk
+secukupnya Air mineral",
+ayam bawang merah bawang putih,171,Ayam suwir,No,Yes,ayam,"300 gr dada ayam
+65 ml santan kental
+secukupnya Air
+1 batang serai (geprek)
+3 cm lengkuas (geprek)
+2 lembar daun salam
+2 sdm air asam jawa
+secukupnya Gula
+secukupnya Garam
+Bumbu halus ungkep ayam :
+3 siung bawang putih
+1/4 sdt ketumbar
+Kencur
+2 lembar daun jeruk
+Bumbu halus untuk ayam suwir :
+5 siung bawang merah
+2 siung bawang putih
+8 biji cabai merah
+1/4 sdt terasi bakar",
+ayam bawang merah bawang putih,176,Ayam geprek 'jessi' 🤣,Yes,No,ayam,"1 ayam fried chicken
+2 butir bawang putih
+1 butir bawang merah
+3 cabai setan
+1 cabai merah
+gula pasir
+garam
+keju cheddar",
+ayam bawang merah bawang putih,183,Sop Ayam,No,Yes,ayam,"1/4 kg ayam
+2 buah wortel (potong)
+1 batang daun bawang (iris serong)
+Bawang merah goreng
+2 lembar daun salam
+1 ruas jahe (geprek)
+Bumbu halus:
+2 siung bawang merah
+2 siung bawang putih
+1 butir kemiri
+Klo suka pedes dibumbu hLus bisa tambah cabe rawit
+1/4 biji pala
+1 batang kayu manis (utuh)
+secukupnya Kaldu bubuk, garam dan lada bubuk",
+ayam bawang merah bawang putih,193,Ayam Crispy Sambal Dabu2,Yes,No,ayam,"Bahan ayam crispy:
+4 potong ayam
+2 bawang putih
+Garam
+Tepung bumbu instan
+Lada hitam bubuk
+Bahan sop:
+3 siung bawang putih, geprek
+Daun bawang
+1/2 sdt merica bubuk
+Kaldu ayam
+Garam
+Kecap asin
+Gula
+Penyedap (boleh skip)
+Bahan sambal:
+6 siung bawang merah
+8 cabe rawit merah
+1 tomat merah
+Jeruk nipis
+Garam
+Penyedap
+Minyak goreng",
+ayam bawang merah bawang putih,198,Kwetiau ayam,No,Yes,ayam,"2 buah dada ayam rebus, suir-suir
+1 bungkus kwetiau basah, cuci, siram dengan air panas
+1 ikat sawi hijau, cuci bersih, potong2, rebus sebentar
+1/4 kg toge cuci bersih, seduh dengan air panas
+Bumbu tumisan ayam:
+10 siung bawang merah
+4 siung bawang putih
+1/2 sendok makan merica bubuk
+1 ruas kecil jahe
+1 ruas kunyit
+3 buah kemiri digoreng/sangrai
+2 lembar daun jeruk purut
+1 lembar daun salam
+1 batang kecil sereh digeprek
+Bumbu minyak ayam:
+4 siung bawang putih digeprek
+secukupnya Kulit ayam atau lemak ayam
+100 cc Minyak sayur
+Bahan tambahan:
+secukupnya Daun bawang dirajang halus
+secukupnya Bakso sapi atau bakso ikan rebus sampai matang
+Saos sambal
+secukupnya Minyak sayur
+secukupnya Air
+secukupnya Kecap asin/kecap ikan
+secukupnya Kecap manis
+secukupnya Air rebusan ayam
+secukupnya Garam
+secukupnya Gula pasir
+secukupnya Kaldu ayam bubuk",
+ayam bawang merah bawang putih,204,Tumis Tauge Ayam Wortel,Yes,No,ayam,"4 siung bawah merah
+2 butir bawang putih
+1/2 bawang bombay
+4 buah cabe rawit merah
+1 buah cabe hijau besar
+1 buah wortel (iris memanjang)
+1 piring tauge
+1 potong ayam
+secukupnya Gula
+secukupnya Garam
+secukupnya Air",
+ayam bawang merah bawang putih,259,Ceker dan sayapp ayam pedes gilaa,Yes,No,ayam,"1/2 kg ceker
+1/4 sayap ayam
+3 siung bawang putih
+6 siung bawang merah
+2 butir kemiri
+2 biji cabe merah
+Cabe rawit (me 20)
+Jahe
+Gula merah
+secukupnya Garam
+secukupnya Gula
+Kecap",
+ayam bawang merah bawang putih,279,Ayam Kecap,Yes,Yes,ayam,"400 g dada ayam fillet
+3 siung bawang merah
+2 siung bawang putih
+10 buah cabai rawit merah
+1 ruas jahe
+100 ml air
+Secukupnya kecap
+Secukupnya garam
+Secukupnya minyak, untuk menumis",
+ayam bawang merah bawang putih,283,Ayam Bakar Kecap,No,Yes,ayam,"1 ekor ayam kampung (optional boleh pakai ayam negri)
+7 siung bawang merah
+5 siung bawang putih
+5 cabe merah besar
+3 cabe rawit (kalau suka pedas silahkan ditambah sendiri)
+2 lembar daun jeruk
+1-2 butir kemiri
+secukupnya Gula merah
+secukupnya Garam
+secukupnya Kecap manis",
+ayam bawang merah bawang putih,295,Ayam goreng cabe hijau,No,Yes,ayam,"1/2 ekor ayam
+15 buah cabai hijau besar yang tidak pedas
+1 buah bawang bombay, iris memanjang
+4 siung bawang merah
+3 siung bawang putih
+3 lembar Daun salam
+3 lembar daun jeruk
+1 buah jeruk nipis
+1 siung kunyit
+Garam
+Gula",
+ayam bawang merah bawang putih,299,Ayam panggang simple,No,Yes,ayam,"1 kg ayam
+15 cabe rawit
+8 cabe kriting
+2 tomat
+4 bawang putih
+8 bawang merah
+1 sachet saori
+secukupnya Gula merah
+secukupnya Gula pasir
+secukupnya Royco",
+ayam bawang merah bawang putih,301,Ayam geprek super simple ala anak kos,No,Yes,ayam,"1/4 dada ayam
+tepung crispy kobe
+lada bubuk
+4 buah cabai rawit setan
+sedikit bawang putih
+minyak untuk goreng ayam",
+ayam bawang merah bawang putih,347,Salted egg chicken,No,Yes,ayam,"250 g Dada ayam
+100 g Tepung
+1 butir Telur ayam
+1 butir Telur asin
+5 siung Bawang merah
+5 siung Bawang putih
+Cabe 10 buah cabe
+1/2 sdt Garam
+1 sdt Gula",
+ayam bawang merah bawang putih,972,Nasi Goreng Kamyam,Yes,No,kambing,"3 porsi nasi putih
+8 bawang merah
+6 bawang putih
+5 cabai rawit
+1 dada ayam suir
+5 tusuk sate kambing suir
+secukupnya garam penyedap rasa dan lada bubuk",
+ayam bawang merah bawang putih,1599,Rempah Tahu ala kadarnya,Yes,No,tahu,"1 plastik tahu (kira² isi 8)
+1 butir telur ayam
+5 bawang merah
+4 bawang putih
+1 batang daun bawang (bawang pre)
+2 cabe merah besar
+1/2 sachet lada bubuk
+1 sachet royco/masako",
+ayam bawang merah bawang putih,1625,Ayam Tahu Kecap,Yes,Yes,tahu,"1/2 Kg Ayam (dada paha)
+2 Tahu putih mentah
+1 Ikat kacang panjang
+1 Bawang Bombay
+3 Siung Bawang Merah
+3 Siung Bawang Putih
+3 Buah Cabe rawit
+Garam
+Merica
+Masako
+Gula",
+ayam bawang merah bawang putih,1712,Sambal Tahu,Yes,No,tahu,"1/2 potong tahu putih besar potong dadu
+3 siung bawang merah iris kasar
+4 siung bawang putih iris kasar
+Sedikit ketumbar
+Secukupnya merica
+Secukupnya garam
+Secukupnya kaldu ayam bubuk
+10 buah cabe rawit merah (tambahkan jika ingin lebih pedas)",
+ayam bawang merah bawang putih,1756,"Botok tahu, ati ayam dan pete",Yes,No,tahu,"3 bh ati ayam potong kotak
+2 bh tahu putih potong kotak
+5 biji pete iris bagi 4
+1 btr telur
+50 ml santan (pkai kara)
+2 bh cabe merah potong serong
+3 bh bawang putih
+2 bh bawang merah
+3 bh kemiri
+Garam, lada bubuk, penyedap",
+ayam bawang merah bawang putih,1829,Omelet telur,Yes,No,telur,"2 butir telur ayam
+1 Batang daun bawang
+1/2 buah tomat merah hilangkan bijinya
+1 siung bawang merah
+1 siung bawah putih",
+ayam bawang merah bawang putih,1880,Tumis Sawi Putih dan Telur,Yes,No,telur,"1 bh Sawi Putih Besar
+2 butir telur ayam
+4 siung bawang putih
+4 siung bawang merah
+secukupnya Gula
+secukupnya Garam
+secukupnya Merica
+secukupnya Penyedap rasa",
+ayam bawang merah bawang putih,2188,Tumis kol telur,Yes,No,telur,"1/2 kol
+1/2 paprika hijau
+3 telur ayam
+1 siung bawang merah
+1 siung bawang putih
+5 buah cabe merah (bebas)
+secukupnya garam
+secukupnya royco ayam",
+ayam bawang merah bawang putih,2536,Tempe Penyet Kemangi,Yes,No,tempe,"100 gr tempet (1/2 papan tempe)
+8 buah cabe merah
+4 bh bawang merah
+3 bh bawang putih
+2 ikat daun kemangi
+1/2 sdt garam
+1/4 sdt kaldu ayam bubuk
+Bahan rendaman
+2 bh bawang putih halus
+Secukupnya garam
+Secukupnya air",
+tempe tahu goreng,1815,Semur manis tahu tempe,No,Yes,tahu,"1/2 papan tempe
+10 buah Tahu
+6 Bawang merah
+5 Bawang putih
+1 Kemiri sangrai
+Sedikit merica
+Gula merah
+Kecap
+Garam",
+tempe tahu goreng,2220,Ulenan tahu tempe,Yes,No,tempe,"1 lonjor tempe
+2 lonjor tempe
+2 bawang putih
+1/2 sdt garam
+secukupnya Penyedap rasa
+secukupnya Gula
+1 butih telur",
+tempe tahu goreng,2231,Tempe Bacem,No,Yes,tempe,"1 papan tempe, potong sesuai selera
+2 buah gula merah, sisir halus
+2 lbr daun salam
+Gula pasir
+Air/air kelapa
+Bumbu dihaluskan :
+5 buah bawang merah
+4 buah bawang putih
+3 buah kemiri
+1 sdt ketumbar
+Garam",
+tempe tahu goreng,2236,Sambel Tempe,Yes,Yes,tempe,"1 papan tempe
+3 siung Bawang putih
+Garam
+5 Cabe
+1 ruas kencur",
+tempe tahu goreng,2237,Tempe goreng,Yes,Yes,tempe,"1/2 papan Tempe
+2 siung bawang putih
+Secukupnya Ketumbar
+Secukupnya garam
+Minyak goreng",
+tempe tahu goreng,2280,Mendoan tempe resep mudah,No,Yes,tempe,"250 gram Tepung terigu
+1 sendok teh garam
+Kunyit
+Ketumbar
+3 siung bawang putih
+1 papan tempe
+Daun bawang
+secukupnya Air",
+tempe tahu goreng,2292,Tempe isi cabe bawang goreng tepung,Yes,Yes,tempe,"1 tempe ukuran sedang
+Secukupnya cabe,bawang merah,bawang putih
+Secukupnya garam
+Secukupnya minyak untuk menumis
+Secukupnya adonan tepung. Aku pakai tepung bumbu instan",
+tempe tahu goreng,2299,Tempe Tepung isi sambal (Tempe Kekinian),Yes,Yes,tempe,"1 papan tempe
+1 batang daun bawang
+1 batang daun seledri
+1 bungkus sedang tepung tempe
+Minyak goreng
+Bahan sambal :
+Cabai merah
+Cabai rawit merah
+Cabai hijau
+2 siung bawang merah
+3 siung bawang putih
+secukupnya Garam
+secukupnya Gula
+Terasi (optional)",
+tempe tahu goreng,2320,Tempe Cabe Garam,No,Yes,tempe,"1 papan tempe
+1 bungkus tepung bumbu krispi
+8 bh bawang putih
+4 bh cabe rawit merah
+1 batang daun bawang
+Garam",
+tempe tahu goreng,2338,Bacem tahu tempe dan sawi rebus,Yes,No,tempe,"Tahu tempe
+1 santan kara
+1 gula merah kecil
+1 bungkus bango bumbu bacen tahu tempe
+Kecap
+Gula
+Garam
+Air
+Sawi hijau",
+tempe tahu goreng,2340,Tempe Goreng Tepung Kobe,Yes,No,tempe,"1/2 papan Tempe
+10 sdm Tepung Bumbu Coating Mix Kobe
+Secukupnya Air",
+tempe tahu goreng,2342,Stik tempe,Yes,No,tempe,"Tempe (iris seperti stik)
+Tepung sajiku
+Tepung panir/tepung roti",
+tempe tahu goreng,2344,Tempe kuah kuning,No,Yes,tempe,"1 papan tempe
+2 lbr daun salam
+Bumbu :
+10 buah cabe rawit merah
+15 buah cabe merah keriting
+8 siung bawang merah
+2 siung bawang putih
+2 ruas kunyit
+1 ruas kencur
+Garam
+Gula
+Penyedap
+Asam jawa (larutkan 200 ml air)",
+tempe tahu goreng,2351,Tempe Mendoan,Yes,No,tempe,"4 potong Tempe mendoan
+3 sdm Tepung mendoan
+Secukupnya Air putih
+Secukupnya Daun bawang",
+tempe tahu goreng,2357,Tempe mendoan,Yes,No,tempe,"1 papan tempe
+Tepung terigu
+Bawang putih haluskan
+lada bubuk
+kunyit
+Irisan daun lemon
+Air",
+tempe tahu goreng,2360,Tempe Selimut (tempe bungkus daun jati),Yes,No,tempe,"Tempe bungkus daun jati/ tempe biasa
+2 siung bawang putih
+6 sendok tepung terigu
+Sejumput ketumbar
+1 cm kunyit
+Garam
+1 butir kemiri
+Minyak goreng
+Air matang",
+tempe tahu goreng,2361,Bumbu tempe goreng,No,Yes,tempe,"1 papan tempe
+2 cm kunyit
+1 sdm ketumbar
+1/2 sdm garam
+2 siung bawang putih",
+tempe tahu goreng,2379,Tempe Melet,No,Yes,tempe,"1 papan tempe
+Bahan sambel
+40 biji cabe rawit
+3 siung bawang putih
+2 siung bawang merah
+1 sdt garam
+Adonan tepung
+1 siung bawang putih
+Sedikit kunyit
+Secukupnya tepung
+Secukupnya air
+Garam
+Lada",
+tempe tahu goreng,2386,Tempe goreng tepung kriuk,Yes,No,tempe,"Tempe
+Tepung terigu
+Tepung bumbu Sajiku
+Tepung bumbu Racik tempe
+Royko
+sedikit air putih",
+tempe tahu goreng,2390,Orek tempe basah,No,Yes,tempe,"1/2 papan tempe (potong memanjang)
+3 siung bawang merah(iris)
+2 buah cabai merah (iris)
+secukupnya Kecap manis
+secukupnya Gula, garam, penyedap
+secukupnya Air",
+tempe tahu goreng,2395,Tempe orek iris,Yes,Yes,tempe,"1/2 papan tempe (iris dadu)
+Kecap manis (secukupnya, sampai tempe berubah warna hitam)
+8 buah bawang merah (iris)
+3 buah bawang putih iris
+7 cabai merah keriting (iris)
+3 cabai rawit (iris)
+3 / 2 lembar daun salam",
+tempe tahu goreng,2396,Tempe selimut terigu,Yes,No,tempe,"Stengah potong tempe
+Terigu kriuk tempe (optional)
+Terigu
+Daun bawang",
+tempe tahu goreng,2437,Sosis Gulung Tempe,Yes,No,tempe,"1/2 papan tempe
+3 sosis ayam (saya merk champ)
+1 butir telur
+secukupnya garam dan lada
+secukupnya tepung panir
+secukupnya minyak goreng",
+tempe tahu goreng,2449,Tempe berontak,No,Yes,tempe,"2 buah Tempe
+4 siung bawang merah
+3 siung bawang putih
+1 serai memarkan
+20 biji cabe rawit (sesukanya Aja)
+Sedikit Terasi
+secukupnya Garam
+Sedikit gula
+4 sendok minyak goreng
+Sedikit air",
+tempe tahu goreng,2463,Tempe Goreng Telur,No,Yes,tempe,"1 papan tempe
+1 butir telur
+2 siung bawang putih diparut (aku pake bawang putih bubuk)
+2 sdm tepung terigu
+Secukupnya garam
+Secukupnya merica",
+tempe tahu goreng,2464,Balado Tempe Sederhana,No,Yes,tempe,"1/2 papah tempe
+3 siung bawang putih
+2 siung bawah merah
+6 cabai rawit
+4 cabai keriting merah
+1 buah tomat
+Sejumput kaldu bubuk
+secukupnya Garam
+secukupnya Gula
+Minyak goreng",
+tempe tahu goreng,2486,Tempe Penyet Pediz,Yes,Yes,tempe,"1 Papan tempe
+Bumbu tempe goreng
+1 sdm ketumbar
+2 siung bawang putih
+secukupnya Garam
+secukupnya Air
+Bahan Sambal
+25 rica rawit
+1 buah tomat
+2 siung bawang putih
+8 siung bawang merah
+secukupnya garam
+secukupnya penyedap rasa
+Minyak goreng secukupnya untuk menggoreng",
+tempe tahu goreng,2502,Tumis Tempe Cabe Ijo,Yes,No,tempe,"Tempe
+Cabe ijo
+Bawang bombai
+Kecap sauri
+Kecap manis
+Garam",
+tempe tahu goreng,2516,Tempe Mendoan,No,Yes,tempe,"2 lembar tempe mendoan
+3 siung bawang putih
+1 sdm makan ketumbar
+2 cm kunyit
+1 sdt kaldu atau bisa tidak
+100 gram tepung terigu
+4 batang daun bawang
+Secukupnya air
+Secukupnya garam
+Secukupnya gula
+200 ml minyak goreng",
+tempe tahu goreng,2518,Sambal Tempe / Tempe Penyet Kemangi,Yes,Yes,tempe,"Tempe (saya pakai 1/4 dari tempe balok besar)
+2 siung bawang putih
+secukupnya Garam
+secukupnya Cabai rawit merah
+1 ikat Kemangi Segar
+secukupnya Minyak goreng",
+tempe tahu goreng,2584,Sambal Bawang Tempe,Yes,Yes,tempe,"Tempe
+Bawang putih
+Garam
+Minyak
+Cabe rawit",
+tempe tahu goreng,2593,Keripik Tempe Sagu,Yes,No,tempe,"500 gr bakal tempe ( yang belum jadi tempe tapi sudah tercampur
+400 gr Tepung tapioka / sagu
+- Bumbu Celup 
+
+5 siung bawang putih, haluskan
+1 sdt ketumbar bubuk
+secukupnya Garam
+secukupnya Air",
+ikan bawang kunyit,363,Ikan bakar kembung,Yes,Yes,ikan,"500 gr ikan kembung
+air perasan jeruk nipis..garam untuk marinasi ikan nya ya.
+7 siung bawang merah
+3 siung bawang putih
+cabe merah kira kira aja y mam..klu saya paling 3biji.
+3 butir kemiri
+ruas jari jahe se
+kunyit seruas jari",
+ikan bawang kunyit,367,Ikan kakap kukus (menu diet),Yes,No,ikan,"3 potong ikan kakap
+2 siung bawang putih
+3 siung bawang merah
+2 cabai merah keriting
+Lada, garam
+daun seledri
+kunyit bubuk
+mentega
+oregano",
+ikan bawang kunyit,391,Kembung acar kuning,Yes,No,ikan,"1/2 kg ikan kembung
+10 cabe rawit utuh
+2 tomat(diiris)
+Bumbu dihaluskan :
+10 bawang merah
+8 bawang putih
+4 kemiri
+2 cm kunyit
+2 cm laos(memarkan)
+2 daun salam
+1 batang serai(memarkan)
+secukupnya Cuka
+2 mata asem
+secukupnya Garam
+secukupnya Motto
+secukupnya Kaldu bubuk
+secukupnya Gula
+Secukupnya wortel (diiris)
+Secukupnya timun(diiris)
+Bumbu ikan goreng:
+3 bawang merah
+2 bawang putih
+1 kunyit
+secukupnya Garam
+secukupnya Motto
+secukupnya Gula",
+ikan bawang kunyit,393,Sop ikan gurame asam segar,No,Yes,ikan,"1 ekor ikan gurame
+2 batang sereh keprek
+3 lembar daun salam
+5 lembar daun jeruk
+1 buah tomat merah potong-potong
+3 buah tomat hijau potong-potong
+1 buah jeruk nipis untuk mencuci ikan
+1 buah jeruk nipis ambil air untuk di campur dikuah
+10 buah cabai rawit merah utuhkan saja
+3 cm jahe keprek
+1 ruas daun bawang potong-potong
+4 siung bawang merah di iris
+4 siung bawang putih di iris
+2 ikat kemangi
+Secukupnya gula
+Secukupnya garam
+Secukupnya penyedap
+Secukupnya air untuk kuah",
+ikan bawang kunyit,417,Crispy Makarel Sambal Merah,Yes,No,ikan,"1 kg ikan makarel
+5 siung bawang putih
+1/2 sdm garam
+secukupnya Kunyit
+secukupnya Ketumbar
+secukupnya Tepung beras
+Coconut oil (untuk menggoreng)",
+ikan bawang kunyit,447,Ikan tongkol sayur asem,Yes,Yes,ikan,"1 ekor ikan tongkol
+Bahan yg dihaluskanh:
+4 siung  bawang mera
+1 siung bawang putih
+Kunyit
+Jahe
+Serei
+3 buah tomat
+Pelengkap
+bila suka Daun bawang
+Daun salam
+secukupnya Garam",
+ikan bawang kunyit,474,Ikan tongkol buatan ibu😍😍😍,No,Yes,ikan,"250 gram ikan tongkol
+Bumbu halus;
+2 siung bawang putih ukr besar
+1 sdt ketumbar
+1 ruas kunyit
+1 ruas jahe
+Sedikit jeruk nipis",
+ikan bawang kunyit,481,Balado Ikan Tongkol,No,Yes,ikan,"1/2 kg ikan tongkol, bersihkan
+Sepotong kecil gula merah
+bumbu halus :
+100 gr cabe merah besar
+10 cabe rawit merah
+10 bawang merah
+4 bawang putih
+1 buah tomat merah ukuran besar
+secukupnya Garam gula",
+ikan bawang kunyit,483,Kakap merah kuah kemangi,No,Yes,ikan,"1 ekor ikan kakap merah (potong bagi 4)
+4 ikat daun kemangi
+6 bh bawang merah
+5 bh asam jawa
+1 sdt kunyit bubuk
+8 bh cabe rawit
+secukupnya Garam gula
+sesuai selera Penyedap rasa",
+ikan bawang kunyit,500,Bandeng TT goreng tepung rica,Yes,No,ikan,"ikan bandeng
+1 biji jeruk nipis
+2 sdm kunyit bubuk
+tepung sajiku
+sambal jahe haluskan:
+30 biji lombok
+6 siung bawang merah
+2 siung bawang putih
+2 ruas jahe
+1 siung daun bawang
+minyak goreng
+secukupnya garam, vetsin",
+ikan bawang kunyit,509,Nila Bakar Bumbu Padang,No,Yes,ikan,"4 ekor ikan nila
+1 buah jeruk nipis
+Bumbu halus :
+6 siung bawang merah
+4 siung bawang putih
+10 buah cabe merah
+17 buah cabe rawit
+1 ruas kunyit
+3 ruas jahe
+2 butir kemiri
+1 sdm ketumbar bubuk
+1/2 gelas santan
+1 sdt lada
+secukupnya Garam
+2 lembar daun jeruk
+2 lembar daun salam
+2 buah serai (di geprek)",
+ikan bawang kunyit,521,Ikan Mujaer Bumbu Acar Kuning,Yes,No,ikan,"3 ekor ikan Mujaer
+1 sdm cuka (merk kura kura)
+Secukupnya daun bawang, iris
+Bumbu Halus :
+5 butir bawang merah
+2 siung bawang putih
+3 butir kemiri
+1/2 cm kunyit
+6 bh cabe rawit
+Secukupnya garam, gula, dan air",
+ikan bawang kunyit,535,Pepes Kembung Teflon,No,Yes,ikan,"3 ekor ikan kembung
+1 batang sereh, geprek
+1/2 buah tomat, potong
+🍃Bumbu Halus🍃 :
+7 buah cabe merah
+5 siung bawang merah
+3 siung bawang putih
+1 buah kemiri
+2 biji asam
+1 ruas kecil jahe
+1 ruas kecil lengkuas
+1 ruas kunyit
+1 lembar daun jeruk
+Secukupnya garam dan gula",
+ikan bawang kunyit,594,Pecak Ikan Mujaer,No,Yes,ikan,"1/2 kg ikan mujaer/ikan mas/ikan gurame
+Jeruk nipis
+Daun kemangi
+secukupnya Gula,garam
+2 buah tomat ijo
+2 lembar daun jeruk
+secukupnya Minyak goreng
+Bumbu halus:
+1 ons kacang tanah goreng
+5 bawang merah
+3 bawang putih
+3 cabe merah kriting
+10 cabe rawit merah
+1 ruas kencur",
+ikan bawang kunyit,608,Ikan tongkol sambal kemangi,No,Yes,ikan,"1 kg ikan tongkol segar (me: 700 gr)
+Bumbu ikan goreng :
+3 siung bawang putih
+2 butir kemiri
+1 ruas kunyit
+1 ruas jahe
+1 sdm air jeruk nipis
+Garam
+Sambal kemangi :
+1 ikat kemangi (ambil daunnya saja)
+7 cabe rawit
+3 cabe merah besar
+2 siung bawang putih
+1 tomat merah (ukuran sedang)
+1 kemiri
+Terasi
+Garam
+Gula merah
+Kaldu bubuk
+1-2 sdm kecap manis",
+ikan bawang kunyit,609,Nila goreng sambal matah,Yes,Yes,ikan,"3 ekor ikan nila, ukuran sedang
+2 siung bawang putih
+1 ruas jari kunyit
+1 sdt ketumbar halus
+secukupnya Garam
+Minyak untuk menggoreng
+Sambal matah:
+10 siung bawang merah
+30 biji cabe rawit apa aja
+1 buah jeruk nipis
+secukupnya Royco
+secukupnya Minyak goreng panas",
+ikan bawang kunyit,613,Pindang patin,Yes,No,ikan,"1 ekor ikan patin
+Cabai rawit dan merah
+Bawang merah dan bawang putih
+Terasi
+Asem
+Gula, garam dan sasa bagi yang suka
+Sereh, lengkuas, kunyit, jahe secukup nya
+2 lembar Daun salam
+Kemangi dan daun bawang
+1 buah Tomat",
+ikan bawang kunyit,622,Bihun tenggiri kuah kecap,Yes,No,ikan,"Bahan ikan goreng tenggiri
+1/2 kg Ikan tenggiri
+2 siung Bawang putih
+1 cm Kunyit
+secukupnya Garam
+Bumbu kuah kecap
+8 siung Bawang merah
+3 siung Bawang putih
+secukupnya Merica bubuk
+secukupnya Royco
+Kecap manis
+Gula
+Saos tiram
+Bihun dan bawang goreng sebagai pelengkap",
+ikan bawang kunyit,634,Ikan kembung bakar padang,No,Yes,ikan,"5 ekor ikan kembung
+2 batang serai (geprek)
+4 lembar daun jeruk
+Santan (gak ukur berapa banyak,kira2 sampe ikannya kerendem aja)
+Secukupnya air
+secukupnya Gula,garam
+Bumbu halus : (semakin banyak bumbu semakin enak)
+10 siung bawang merah
+8 siung bawang putih
+20 buah cabe merah
+10 buah cabe rawit
+2 ruas jahe
+2 ruas kunyit",
+ikan bawang kunyit,639,Ikan tongkol merah,No,Yes,ikan,"3 ekor ikan tongkol
+Bumbu
+3 buah bawang merah
+1 buah bawang putih
+Sesuai selera cabai
+Secukupnya gula garam
+1 sdt kecap manis
+Secukupnya air",
+ikan bawang kunyit,652,Ikan Kembung Bumbu Kuning,Yes,No,ikan,"2 ekor ikan kembung
+Bumbu halus:
+5 buah bawang merag
+3 buah bawang putih
+10 buah cabe rawit orange
+3 butir kemiri
+Kunyit
+Jahe
+Garam
+Penyedap rasa
+Bahan iris:
+Cabe merah kriting
+Tomat
+Lengkuas
+Daun salah
+Serai
+Gula merah
+Minyak goreng",
+ikan bawang kunyit,653,Sup Gurame Kuning Ala Manado Kitchen,Yes,Yes,ikan,"1 Ekor Ikan Gurame Segar
+4 Siung Bawang Merah
+2 Siung Bawang Putih
+Secukupnya Jahe
+2 Potong Kunyit
+2 Potong Sereh
+4 Lembar Daun Jeruk
+2 ikat kemangi
+1 Buah Tomat
+5 Potong Cabai Rawit
+Penyedap Rasa / Royco
+3 Gelas Air Putih/ Secukupnya",
+ikan bawang kunyit,667,Ikan Kembung Bakar,No,Yes,ikan,"4 ekor ikan kembung, rendam air jeruk nipis & garam
+1 batang serai
+2 helai daun salam
+Bumbu halus:
+6 buah bawang merah
+2 buah bawang putih
+5 butir kemiri
+5 buah cabe rawit merah
+4 buah cabe merah keriting
+2 cm jahe
+2 cm kunyit
+2 cm lengkuas",
+ikan bawang kunyit,679,Ikan kembung goreng,Yes,Yes,ikan,"1/2 kg ikan kembung
+8 bawang merah
+7 bawang putih
+2 cm kunyit
+secukupnya Garam
+secukupnya Kaldu bubuk
+secukupnya Minyak
+secukupnya Air",
+ikan bawang kunyit,690,Pesmol ikan mas,Yes,No,ikan,"2 ekor ikan mas ()
+5 siung bawang putih
+4 btr bawang merah
+10 btr cabai rawit
+5 btr cabai merah
+2 cm kunyit
+3 btr kemiri
+sereh
+secukupnya garam,gula,lada
+minyak untuk menggoreng
+secukupnya air",
+ikan bawang kunyit,699,Gulai ikan nila,Yes,No,ikan,"1/2 kg ikan nila
+santan klapa/kara
+secukupnya wortel
+Bumbu:
+7 siung bawang merah
+2 siung bawang putih
+secukupnya ketumbar
+jahe
+kunyit
+kemiri
+lengkuas
+serai
+daun jeruk
+daun salam",
+ikan bawang kunyit,705,Pindang Ikan Patin Asap,Yes,Yes,ikan,"bumbu halus:
+6 butir bawang merah
+3 siung bawang putih
+2 buah cabe merah
+bahan:
+3 buah ikan patin asap
+1 batang serai, memarkan
+2 cm kunyit bakar, iris
+1 cm jahe, iris
+1 cm lengkuas, memarkan
+2 lembar daun salam
+1/2 buah nanas, potong-potong
+2 buah tomat, potong-potong
+6 buah belimbing wuluh, belah dua
+1 sdt kecap ikan
+1/2 sdt saus raja rasa
+1/4 sdt kecap manis
+gula dan garam secukupnya sesuai selera
+2 ikat daun bawang (senthir), potong-potong",
+ikan bawang kunyit,713,Ikan kembung rica2,Yes,Yes,ikan,"5 potong ikan kembung
+3 bawang merah
+4 bawang putih
+sesuai selera Cabe
+Ketumbar
+Lada
+Kunyit
+Daun kemangi
+Sereh
+Garam
+Mecin
+Air",
+ikan bawang kunyit,728,Pallumara Ikan Kembung,Yes,No,ikan,"1/2 kg ikan kembung
+Seruas kelingking kunyit
+10 siung bawang merah
+4 siung bawang putih
+Air asam jawa secukupnya (tergantung selera suka asam bgt/tdk)
+15 cabe rawit utuh
+Garam secukupnya sesuai selera
+1 sdm gula pasir
+750 ml air",
+ikan bawang kunyit,1662,Sambal rawit ikan serai tahu,No,Yes,tahu,"3 ons ikan serai
+3 buah tahu
+1 jeruk nipis
+bumbu halus
+1/2 ons cabe merah dan hijau panjang
+1/2 ons cabe rawit
+5 buah bawang merah
+1 buah bawang putih
+secukupnya garam
+1 buah tomat
+secukupnya penyedap rasa",
+ikan bawang kunyit,1763,Gulai kepala ikan tongkol+kacang panjang & tahu,Yes,Yes,tahu,"1/2 kg ikan tongkol (daging + kepala)
+Kacang panjang
+Tahu
+Santan
+Bumbu :
+Cabe rawit
+Cabe merah / cabe giling
+Bawang merah
+Bawang putih
+Jahe & kunyit
+Batang sereh, daun jeruk, daun",
+ikan bawang kunyit,2752,Gulai ikan bawal campur udang,Yes,No,udang,"250 gr ikan bawal
+300 gr udang
+5 siung bawang merah
+3 siung bawang putih
+1 potong kunyit
+secukupnya Ketumbar
+1/2 buah kelapa (parut)
+secukupnya Cabai rawit
+secukupnya Garam",
+daging sapi kecap,848,Daging Masak Kecap,No,Yes,kambing,"250 gram daging kambing atau iga sapi
+3 siung bawang putih, iris halus
+10 sdm kecap manis
+4 sdm minyak goreng
+1 sdt garam
+1 sdm gula pasir
+500 gram air
+1 buah jeruk nipis",
+daging sapi kecap,1025,Sate goreng kambing kurban super simpel express,No,Yes,kambing,"100 gr daging kambing. (bisa juga pakai daging sapi atau daging ayam)
+Bumbu :
+1 biji bawang putih
+Sejumput garam
+Sejumput merica (sesuai selera)
+2 sdm kecap
+1 sdm minyak goreng
+secukupnya Air panas
+Pelengkap
+Kol,tomat,timun cabe,bawang merah potong sesuai selera",
+daging sapi kecap,1117,Daging Sapi Saus Tiram,Yes,Yes,sapi,"250 gram daging sapi (yang sudah direbus, potong dadu)
+1 buah bawang bombay
+2 buah bawang putih
+7 buah cabe rawit
+1 bungkus saori saus tiram
+1 sendok kecap manis
+Garam
+Gula jawa",
+daging sapi kecap,1121,Daging sapi kentang kecap,Yes,No,sapi,"250 gram daging sapi segar, cincang
+750 gram kentang, potong kotak kecil2, lalu goreng sampe matang kuning kecoklatan
+10 butir bawang merah, cincang halus
+3 siung bawang putih cincang halus
+secukupnya Merica
+secukupnya Garam dan gula
+3 sdm kecap manis (sesuai selera
+secukupnya Kaldu jamur (optional)
+Minyak goreng",
+daging sapi kecap,1124,Semur Daging Sapi Cabe Gendot,Yes,No,sapi,"250 gr daging sapi
+1 bungkus cabe gendot
+1/2 bh bawang bombay
+Kaldu bubuk non MSG
+Kecap manis Sugar Free Low Sodium
+Minyak Canola
+Air",
+daging sapi kecap,1128,Semur daging sapi,Yes,Yes,sapi,"250 kg daging sapi (potong kotak)
+2 buah kentang
+Bumbu yang di haluskan
+3 butir kemiri
+4 siung bawang merah
+3 siung bawang putih
+1 sdt merica
+secukupnya Air,Kecap, garam, gula",
+daging sapi kecap,1163,"Daging, Ati Sapi dan Telor Puyuh Kecap",Yes,No,sapi,"1/4 telor puyuh
+1 ons hati sapi yg sdh direbus
+1 ons daging sapi yg sudah direbus
+Bumbu halus :
+5 siung bawang merah
+5 siung bawang putih
+5 batang bawang daun
+Lengkuas secukupnya dan daun jeruk
+Bahan pisah :
+Gula
+Garam
+Merica
+Cabai rawit sesukanya iris
+iris Cabai merah besar
+1 bawang daun prei iris",
+daging sapi kecap,1172,Semur daging sapi ala Hongkong (Ngau lam),Yes,No,sapi,"50 HKD Daging sapi (ngaulam)
+1 buah lobak merah
+2 sdm saus Chu hou paste
+1 sdm gula batu, 1/2sdt garam
+1 sdt kecap hitam (lou jau)
+1 sdt kecap asin
+4 siung bawang putih
+4 siung bawang merah
+2 lembar jahe
+Sedikit minyak untuk menumis",
+daging sapi kecap,1192,Krengsengan sapi,Yes,No,sapi,"1/2 kg daging sapi
+6 bawang merah
+4 bawang putih
+1/2 bawang bombay
+Jahe
+5 daun kedondong
+Kecap laron
+10 Cabe rawit
+Gula garam
+200 ml Air",
+daging sapi kecap,1193,Tumis kecap daging sapi simple,Yes,Yes,sapi,"1/2 kg daging sapi
+3 siung Bawang putih
+6 siung Bawang merah
+1/2 ruas jari Jahe
+1/2 ruas jari Kencur
+sesuai selera Kecap
+secukupnya Garam
+secukupnya Gula
+1 lembar Daun jeruk
+Sere
+Daun bawang merah
+Minyak goreng secukunya
+Penyedap rasa saya pakai royco
+sedikit Air",
+daging sapi kecap,1208,Tumis daging sapi brokoli ala d'kost,No,Yes,sapi,"250 gram daging sapi kualitas bagus
+1 buah brokoli potong kecil2
+1 buah bunga kol potong kecil
+1 buah wortel ukuran sedang potong kecil
+1 sdm saos tiram
+Secukupnya garam
+Secukupnya merica bubuk
+1 ruas jahe (cincang halus)
+2 siung bawang putih (cincang halus
+3 siung bawang putih iris tipis
+1/2 bawang bombay ukuran besar
+2 sdm kecap manis
+500 ml air putih
+200 ml air kaldu sapi didapat dr air rebusan",
+daging sapi kecap,1223,Beef Brokoli aka Brokoli Daging Sapi,Yes,No,sapi,"300 gr Daging Sapi Has Dalam - iris tipis
+1 bonggol Brokoli - potong sedang
+1 ruas jari Jahe - keprek
+3 siung bawang putih - cincang
+100 ml Air Putih
+Bumbu Marinate :
+2 sdm Saus Tiram
+1 sdm Kecap Asin
+2 sdm Kecap Manis
+1 sdm Sagu",
+daging sapi kecap,1225,Tumis sayur bayam & daging sapi,Yes,No,sapi,"1 ikat bayam
+50 grm daging sapi
+2 siung bawang putih
+1 sendok mkn kecap asin
+1 sendok teh maizena
+2 sendok mkn minyak goreng (olive oil)
+Garam dan bumbu kaldu secukup nya",
+daging sapi kecap,1237,Beef black pepper,No,Yes,sapi,"Secukupnya daging sapi
+Bumbu:
+8 siung bawang putih
+1 siung bawang bombay
+secukupnya Lada hitam
+6 buah Cabe hijau besar
+6 buah cabe merah besar
+1 bungkus saori
+secukupnya Kecap
+secukupnya Gula, garam, dan penyedap rasa",
+daging sapi kecap,1241,Daging sapi tumis paprika orens,Yes,Yes,sapi,"150 gram daging sapi kwalitas no 1 potong slice
+1 buah paprika
+3 siung bawang putih
+1/4 bawang bombay
+Sedikit jahe geprek
+1 sdm tp. Maizena
+1 sdm kecap manis
+1 sdm kecap asin
+1 sdm saos tiram
+200 ml air
+secukupnya Garam dan gula",
+daging sapi kecap,1278,Daging sapi balado,No,Yes,sapi,"250 gr daging sapi
+Bumbu halus :
+8 cabai merah
+8 bawang merah
+5 bawang putih
+1 cm jahe
+Tambahan :
+Air asem jawa
+Gula putih
+Garam
+Penyedap rasa ayam masako
+secukupnya Air",
+daging sapi kecap,1306,Tumis Daging Sapi Saus Tiram Simple dan Sederhana,No,Yes,sapi,"Bahan :
+250 gr daging sapi
+1/2 buah wortel (diiris sesuai selera
+1/2 buah bawang bombay (iris)
+1 buah cabe merah besar (iris sesuai selera)
+Minyak untuk menumis
+1 sdm Saos tiram
+1 sdm Kecap manis
+Penyedap
+Bumbu halus :
+Merica (secukupnya)
+2 siung bawang putih
+2 siung bawang merah
+3 buah cabe rawit
+Garam (sesuai selera)",
+daging sapi kecap,1343,Sapi saus tiram + bakso + lada hitam,Yes,Yes,sapi,"1/4 daging sapi
+1 bks bakso sapi (isi 10 kecil2)
+Saus tiram
+3 sdm Kecap manis
+1 1/2 sdm Kecap asin
+secukupnya Bawang bombay
+secukupnya Lada hitam
+Paprika (bisa diganti cabai merah/hijau)
+Sedikit air (air kaldu sapi dr rebusan tadi)",
+daging sapi kecap,1348,Tumis Sapi Cincang,Yes,Yes,sapi,"250 gram daging sapi cincang
+6 batang buncis, potong kecil-kecil
+2 batang wortel, parut
+1 batang cabe merah
+1 siung bawang putih
+Kecap manis
+Saus tiram
+Lada hitam
+Garam
+Minyak wijen
+Kecap ikan",
+daging sapi kecap,1358,Sapi Kecap,Yes,Yes,sapi,"1/4 daging sapi
+Bumbu:
+2 siung Bawang putih
+5 siung Bawang merah
+1/2 bawang bombai
+1 bks lada bubuk
+Sedikit Pala  aja haluskan
+Garam
+sesuai selera Vetsin
+secukupnya Air
+Kecap manis Bango
+Minyak untuk menumis",
+daging sapi kecap,1372,Sate Goreng Sapi,No,Yes,sapi,"200 gram daging sapi
+Bumbu halus:
+1 sdt garam
+4 siung bawang putih
+3 biji kemiri
+1/2 sdt ketumbar
+1/2 sdt lada halus
+Bumbu goreng:
+1 buah tomat hijau
+1 lembar daun salam
+2 lembar daun jeruk
+2 siung bawang putih
+4 siung bawang merah
+5 biji cabai rawit (atau sesuai selera)
+Bumbu lain:
+2 sdm kecap manis
+1/3 butir gula merah, sisir halus
+2 sdm air asam jawa
+1,5 sdm margarin",
+daging sapi kecap,1384,Daging sapi lada hitam,Yes,No,sapi,"250 gram daging sapi has dalam potong2 sesuai selera
+1 butir bawang bombay
+3 butir bawang putih dikeprek
+1 sdt merica hitam halus
+3 sdm kecap manis
+2 sdm caos teriyaki
+1 sdt minyak wijen
+1 biji cabai merah lompong
+1 buah daun bawang iris2
+200 ml minyak goreng",
+daging sapi kecap,1394,Sup Daging Sapi dan Sayuran,No,Yes,sapi,"Beberapa iris daging sapi
+Sayuran (wortel, kentang, kol, seledri, daun bawang)
+2 siung bawang putih
+2 siung bawang merah
+1 buah kemiri
+300 ml air (1 1/2 gelas belimbing)
+secukupnya Garam
+secukupnya Kaldu bubuk rasa sapi",
+daging sapi kecap,1408,Beef yakiniku,No,Yes,sapi,"500 gram daging sapi
+1 buah bawang bombay
+3 sdm saus tiram
+2 sdm kecap manis
+1 sdm kecap asin
+secukupnya Garam dan gula
+secukupnya Lada bubuk
+1 sdm minyak wijen
+Minyak goreng untuk menumis
+1 sdm Tepung maizena larutkan dengan air",
+daging sapi kecap,1425,Krengsengan daging sapi super simpel,Yes,No,sapi,"1/4 kg daging sapi
+1/2 Bawang bombai iris memanjang
+Bumbu halus :
+2 kemiri
+5 bawang putih
+7 bawang merah
+7 cabe merah
+4 sendok kecap
+Sejempol jahe
+Secukupnya merica, garam, gula
+secukupnya Air
+Minyak goreng untuk menumis
+Bawang goreng untuk taburan",
+daging sapi kecap,1445,Beef Teriyaki,No,Yes,sapi,"300-400 gram daging sapi tanpa lemak (rebus sampai lunak)
+1 sachet saori teriyaki
+1 sachet saori saus tiram
+1 sachet lada bubuk
+4-5 sdm kecap manis
+1 ruas ibu jari jahe (haluskan)
+4 siung bawang putih (haluskan)
+1 buah bawang bombay (iris)
+Secukupnya minyak goreng untuk menumis
+Secukupnya mayonaise
+Secukupnya saus sambal",
+daging sapi kecap,1451,Daging sapi malbie kecap cabe ijo,Yes,No,sapi,"2 ons daging sapi
+secukupnya Bawang merah bawang putih
+Cabe kecil(kalo mau pedas) + cabe hijau
+Buah pala dan kayu manis
+Bawang bombay
+Garam,gula,kecap manis(bango)",
+daging sapi kecap,1462,Sapi Goreng Asam,Yes,Yes,sapi,"500 gr daging sapi,diiris2
+2 sdm asam jawa,larutkan dgn air secukupnya
+5 sdm kecap manis
+2 sdm kecap asin
+secukupnya garam,gula,merica",
+daging sapi kecap,1476,"Nasi jamur daging sapi (HK)
+niu rou fan",Yes,No,sapi,"2 cangkir takaran beras
+20 biji jamur kering (rendam)
+1/4 daging sapi cincang
+4 iris jahe potong panjang
+bumbu daging cincang
+1 sdt tepung maizena
+2 sdm kecap asin
+1 sdt gul pasir
+2 sdm minyak wijen
+1/2 sdt lada bubuk
+bumbu jamur kering
+jamur di potong tipis
+1/2 sdt gula pasir
+1 sdm kecap asin",
+daging sapi kecap,1484,Tumis sapi saus tiram,Yes,Yes,sapi,"250 gr daging sapi, iris tipis
+2 siung bawang bombay kecil, potong kasar
+2 siung bawang putih, cincang halus
+3 buah cabe rawit
+3 sdm kecap asin
+2 sdm maizena
+1 sdm saus tiram
+1 sdm kecap manis
+1 sdt lada
+1 sdt minyak wijen
+Minyak
+Air
+Gula, garam, penyedap",
+daging sapi kecap,1496,Semur Daging Sapi,No,Yes,sapi,"1/2 daging sapi
+1 buah cabai rawit merah
+8 siung bawang merah
+2 siung bawang putih
+1 buah sereh
+Secukupnya lada
+Secukupnya jahe
+3 lembar daun salam
+Secukupnya garam
+Secukupnya gula
+Secukupnya micin/royco
+Secukupnya air
+Secukupnya minyak
+1 buah jeruk limau
+Secukupnya bawang goreng
+Secukupnya laos
+Secukupnya kecap manis",
+udang cabe terasi,549,Sambal balacan kembung pete limo,Yes,No,ikan,"2 ikan kembung
+10 buah cabai keriting
+5 buah cabai setan
+2 bawang putih
+5 bawang merah
+1 terasi (saya pakai terasi udang)
+1 ruas jari kunyit (bs diskip)
+sereh (geprek)
+3 lembar daun jeruk
+1 jeruk nipis
+1 tangkai pete
+1 sdm perasan air jeruk limo",
+udang cabe terasi,689,Tumis tongkol cabe tomat,No,Yes,ikan,"10 potong tongkol
+6 siung bawang merah
+1 siung bawang putih
+1 buah tomat
+1 cabe merah keriting
+3 cabe rawit
+Sepotong kecil terasi (aku pakai 1/4 terasi abc sachet)
+Secukupnya Gula Garam
+Secukupnya air",
+udang cabe terasi,1428,Sayur asem iga sapi,Yes,No,sapi,"5 potong iga sapi
+Isi sayuran:
+1 buah jagung manis
+1 buah worter ukuran sedang
+1 buah terong
+1/2 buah labu siem/welok
+1/8 buah nangka muda
+4 batang kacang panjang
+1 genggam Melinjo
+1 genggam kacang tanah kupas
+Secukupnya Daun so
+Bumbu:
+Asem jawa
+6 siung bawang merah
+3 siung bawang putih
+2 butir kemiri
+2 buah cabe merah
+1/2 potong terasi udang
+Secukupnya gula jawa
+Secukupnya garam",
+udang cabe terasi,2530,Sambal terancam Timun&tempe,Yes,No,tempe,"1/4 kelapa (parut)
+1 papan tempe (kukus)
+2 timun
+Bumbu halus
+1 bh cabe merah keriting
+2 bh cabe rawit
+2 cm kencur
+2 bawang putih
+1 daun jeruk purut
+1 bungkus Terasi udang
+Secukupnya gula dan garam",
+udang cabe terasi,2576,Sambal terasi ditemani tempe geprek tahu goreng,No,Yes,tempe,"22 biji cabe rawit
+3 siung bawang putih
+Gula pasir, garam, micin
+Terasi abc",
+udang cabe terasi,2626,Sambel udang yummy,Yes,Yes,udang,"100 gr udang,buang kepala
+4 buah cabe merah keriting
+6 buah cabe rawit
+1 buah tomat kecil
+secukupnya Terasi
+Garam
+Gula merah
+Penyedap
+1 papan Pete,belah dua",
+udang cabe terasi,2631,Balado Udang,Yes,No,udang,"400 gr udang, kupas, sisakan ekornya
+Minyak utk menggoreng
+Bumbu halus
+4 siung bawang putih
+6 siung bawang merah
+7 buah cabai rawit
+3 buah cabai merah
+1 buah tomat ukuran besar
+2 buah kemiri
+1 sdt terasi
+2 sdt gula
+1 sdt garam",
+udang cabe terasi,2653,Petis udang mudah,Yes,Yes,udang,"1/2 kg udang (kepala dan kulit saja)
+Secukupnya gula merah
+Secukupnya air
+Secukupnya garam
+Secukupnya gula pasir
+Secukupnya terasi udang
+Secukupnya kecap manis",
+udang cabe terasi,2672,Sambel goreng udang tahu,Yes,Yes,udang,"1 kg udang (kupas kulit nya)
+5 buah tahu (di potong kotak2)
+7 siung bawang merah
+5 siung bawang putih
+1 buah Lombok merah besar
+3 buah Lombok keriting
+Secukupnya Terasi
+secukupnya Garam
+secukupnya Penyedap rasa",
+udang cabe terasi,2683,Udang Saos Kentang,No,Yes,udang,"250 gr Udang
+2 bh Tomat
+Kentang ukuran sedang 2bh
+Garam
+Gula
+Daun bawang
+15 bh Cabe merah
+5 bh Bawang merah
+1 bh Bawang putih",
+udang cabe terasi,2729,Sambal Udang Pete,Yes,Yes,udang,"1/4 Udang
+1 Papan Pete
+10 Cabe Keriting
+20 Cabe Rawit Merah
+1 sdt Gula Merah
+1 , ½sdt Garam
+Secukupnya Minyak Goreng
+3 Lembar Daun Jeruk Purut
+5 Bawang Merah
+3 Bawang Putih
+1 Tomat uk. Kecil
+1/2 sdt Terasi Abc",
+udang cabe terasi,2743,Tumis kangkung tauco udang telur puyuh (resep kilat),Yes,No,udang,"3 ikat kangkung
+1 sdm bawang putih goreng
+3 sdm minyak bawang putih
+3 sdm bawang goreng
+1 sdm sambel terasi
+2 sdm tauco
+Pelengkap
+Secukupnya udang
+Secukupnya telur puyuh
+Secukupnya saos tiram",
+udang cabe terasi,2755,Cilok Udang,Yes,Yes,udang,"400 gr udang
+250 gr tepung kanji
+250 gr tepung terigu
+5 butir bawang putih
+2 butir bawang merah
+2 butir telur
+1/2 butir terasi (terasi kemasan kecil)
+Secukupnya Seledri
+Secukupnya Daun bawang
+Secukupnya Bawang merah goreng
+Secukupnya Merica
+Secukupnya garam
+Secukupnya royco",
+udang cabe terasi,2782,Udang pedas manis 04,No,Yes,udang,"200 gr udang
+1 buah tomat
+3 buah cabe rawit merah
+3 buah cabe besar merah
+3 siung bawang merah
+1 siung bawang putih
+1 sdt gula jawa
+1 sdt gula pasir
+Secukupnya garam
+3 sdm minyak(untuk menumis)",
+udang cabe terasi,2798,Tumis Mercon Udang Terasi,Yes,Yes,udang,"3 rawit setan iris tipis
+2 bawang merah iris tipis
+1 bawang putih iris tipis
+50 gr udang, cincang
+Terasi agak banyak (1/2 sdm kurleb)
+Secuil garam
+Secuil gula pasir
+3 sdm air",
+udang cabe terasi,2805,Udang Sambal Petai (Sangat Sederhana),Yes,No,udang,"1/4 kg Udang
+Petai 1 keris
+Minyak secukupnya untuk menumis
+sesuai selera Gula garam
+Bumbu halus (diblender)
+7 buah Cabe keriting
+3 siung Bawang putih
+4 siung Bawang merah
+2 buah tomat
+1/2 blok Terasi goreng ABC
+secukupnya Air",
+udang cabe terasi,2807,Sambal Goreng Kentang Udang,Yes,Yes,udang,"5 siung bawang merah
+3 siung bawang putih
+5 Cabai merah
+Cabai rawit 2 (sesuai selera)
+1/2 Tomat
+1 ruas jari lengkuas
+1/2 Terasi udang
+5 buah kentang
+1/4 Udang
+Gula
+Garam
+3 lembar daun jeruk",
+udang cabe terasi,2827,Oseng Udang,No,Yes,udang,"500 gram udang ukuran sedang
+1/2 ruas jari Kunyit ()
+1 sdm Ketumbar ()
+1 sdt Garam ()
+secukupnya Gula ()
+Minyak goreng
+secukupnya Bawang putih
+secukupnya Bawang merah
+secukupnya Ale
+secukupnya Cabe hijau
+secukupnya Daun bawang",
+udang cabe terasi,2839,Sambal udang,No,Yes,udang,"1/4 kg udang uk sedang
+5 siung bawang merah
+3 siung bawang putih
+7 buah cabe merah
+10 buah cabe rawit
+1 ruas jahe
+1 ruas kunyit
+1 ruas lengkuas
+1 batang sereh
+1 buah tomat merah
+1 lembar daun jeruk
+3 lembar daun salam
+Secukupnya gula dan garam
+Minyak untuk menumis
+secukupnya Air",
+udang cabe terasi,2861,Udang Lombok Merah,No,Yes,udang,"1/4 kg udang, buang bagian kepalanya
+7 buah cabe merah besar
+4 siung bawang putih
+1 sdm garam (sesuai selera)
+Minyak untuk menumis
+50 ml air",
+udang cabe terasi,2864,Pindang Udang,Yes,No,udang,"500 gram udang
+1 ltr air
+8 bh bawang merah
+8 bh bawang putih
+15 bh cabe merah (sesuai selera)
+1/2 bh nanas
+1 bh timun
+Secukupnya gula, garam
+Secukupnya terasi (optional, aq ga pake)",
+udang cabe terasi,2877,Sambal udang tahu petai,Yes,Yes,udang,"100 gram udang (buang ekor dan kepala)
+3 buah tahu potong kotak
+2 papan petai
+Lengkuas geprek
+Bumbu yang dihaluskan
+8 buah cabe keriting
+4 siung bawang putih
+6 siung bawang merah
+1/2 sendok teh terasi
+Secukupnya minyak goreng
+Secukupnya air
+Secukupnya garam, gula dan penyedap jika suka",
+udang cabe terasi,2880,Sambal Goreng Udang Lokio,Yes,No,udang,"250 gram udang, kupas tuntas
+100 gram lokio
+3 butir bawang merah, iris
+1 buah tomat merah, iris
+secukupnya Garam
+secukupnya Gula pasir
+4 sdm minyak untuk menumis
+Bumbu tumbuk kasar:
+5 buah cabe merah keriting
+3 buah cabe rawit merah
+1/2 sdt terasi",
+udang cabe terasi,2888,Gammi Udang,Yes,Yes,udang,"1/4 kg Udang segar
+3 siung bawang putih
+15 biji cabe rawit (tergantung selera ya di sesuaikan aja)
+8 siung bawang merah
+2 biji tomat
+1 sachet terasi",
+udang cabe terasi,2892,Udang Goreng Cabe Garam,No,Yes,udang,"1 kg udang ukuran sedang
+Bawang bombay iris secukupnya
+5 siung Bawang putih cincang
+secukupnya Cabe rawit
+Mentega atau margarin untuk menumis dan menggoreng udang
+secukupnya Garam dan kaldu bubuk",
+udang cabe terasi,2920,Udang kuah bumbu,No,Yes,udang,"1/2 kg udang
+2 lembar daun jeruk
+5 buah cabe rawit
+1 buah cabe merah
+5 siung bawang merah
+3 siung bawang putih
+3 buah kemiri
+1 barang serai
+1 ruas laos
+1 ruas kunyit
+Sedikit jahe
+Secukupnya lada bubuk
+Secukupnya garam
+Secukupnya gula & penyedap rasa",
+udang cabe terasi,2928,Sayur labu siam udang,Yes,No,udang,"300 gr udang
+2 buah labu siam
+2 daun salam
+2 serai geprek
+Seruas lengkuas geprek
+2 cabe ijo (iris)
+1 liter santan
+Bumbu halus :
+7 buah cabe merah besar
+6 bawang merah
+4 bawang putih
+2 butir kemiri, disangrai
+1 sdm terasi
+Garam, gula",
+udang cabe terasi,2958,Sambal Goreng Udang,Yes,Yes,udang,"90 gr Udang kupas (8 ekor)
+15 bh Bawang Merah
+45 bh Cabai rawit merah
+20 bh Cabai merah kriting
+200 ml Kaldu dari kulit udang/air biasa
+1 1/4 sdt Garam
+1 sdt Gula
+1/4 sdt Penyedap (optional)
+1 bks Terasi ABC kecil",
+udang cabe terasi,2960,Udang asam pedas,Yes,Yes,udang,"1/4 kg Udang
+2 siung Bawang merah  (diiris tipis)
+2 siung Bawang putih  (diiris tipis)
+3 buah Cabe hijau  (diiris tipis)
+10 buah Cabe merah / sesuai selera (giling halus)
+10 buah Cabe rawit  (5 buah iris, 5 buah digiling)
+secukupnya Terasi
+1 buah Tomat
+Air perasan asam jawa
+2 lbr Daun bawang
+1 sdt Garam halus
+Gula pasir 1sdt (sesuai selera)
+secukupnya Air",
+kangkung bawang tempe,1815,Semur manis tahu tempe,No,Yes,tahu,"1/2 papan tempe
+10 buah Tahu
+6 Bawang merah
+5 Bawang putih
+1 Kemiri sangrai
+Sedikit merica
+Gula merah
+Kecap
+Garam",
+kangkung bawang tempe,2028,Kangkung tumis bakso sosis telur,Yes,Yes,telur,"6 btg kangkung(1 ikat kecil)
+1 sosis
+5 bakso ayam
+1 telur
+2 bawang putih
+4 bawang merah
+secukupnya garam lada gula Saori air
+sedikit minyak bwt menumis",
+kangkung bawang tempe,2237,Tempe goreng,Yes,Yes,tempe,"1/2 papan Tempe
+2 siung bawang putih
+Secukupnya Ketumbar
+Secukupnya garam
+Minyak goreng",
+kangkung bawang tempe,2246,Tumis kangkung cumi asin plus tempe,Yes,Yes,tempe,"1 ikat kangkung
+tempe (sesuai selera mau berapa banyak)
+4 ekor cumi asin
+2 siung bawang putih haluskan
+2 siung bawang merah haluskan
+3 bh cabe rawit(boleh skip kalo ngga suka pedes) haluskan
+garam,merica
+penyedap jamur (bila mau)",
+kangkung bawang tempe,2266,Cah Kangkung Tempe,Yes,Yes,tempe,"2 ikat kangkung
+1/4 papan tempe, potong2 lalu goreng
+2 siung bawang merah (iris)
+3 siung bawang putih (iris)
+5 bh cabe rawit merah (saya ganti cabe keriting merah)
+1 bh tomat (potong2)
+1 btg daun bawang (iris serong)
+2 sdm saus tiram
+Secukupnya gula dan kaldu bubuk
+Secukupnya air",
+kangkung bawang tempe,2280,Mendoan tempe resep mudah,No,Yes,tempe,"250 gram Tepung terigu
+1 sendok teh garam
+Kunyit
+Ketumbar
+3 siung bawang putih
+1 papan tempe
+Daun bawang
+secukupnya Air",
+kangkung bawang tempe,2287,Tempe Mendoan Stick,Yes,No,tempe,"1 tepak tempe
+1 butir telur
+secukupnya Minyak
+Bumbu ungkep :
+2 siung bawang putih
+1 siung bawang merah
+1/2 sdt ketumbar
+secukupnya Garam
+Penyedap
+potong Daun bawang potong kecil",
+kangkung bawang tempe,2292,Tempe isi cabe bawang goreng tepung,Yes,Yes,tempe,"1 tempe ukuran sedang
+Secukupnya cabe,bawang merah,bawang putih
+Secukupnya garam
+Secukupnya minyak untuk menumis
+Secukupnya adonan tepung. Aku pakai tepung bumbu instan",
+kangkung bawang tempe,2299,Tempe Tepung isi sambal (Tempe Kekinian),No,Yes,tempe,"1 papan tempe
+1 batang daun bawang
+1 batang daun seledri
+1 bungkus sedang tepung tempe
+Minyak goreng
+Bahan sambal :
+Cabai merah
+Cabai rawit merah
+Cabai hijau
+2 siung bawang merah
+3 siung bawang putih
+secukupnya Garam
+secukupnya Gula
+Terasi (optional)",
+kangkung bawang tempe,2309,Tempe melet,Yes,No,tempe,"Tempe
+Kol
+Tauge
+Telur
+Jagung
+Tepung crispy
+Daun bawang sledri
+Cabai rawit ijo
+Bawang merah
+Bawang putih
+Tomat
+Merica
+Garam dan penyedap rasa",
+kangkung bawang tempe,2320,Tempe Cabe Garam,Yes,Yes,tempe,"1 papan tempe
+1 bungkus tepung bumbu krispi
+8 bh bawang putih
+4 bh cabe rawit merah
+1 batang daun bawang
+Garam",
+kangkung bawang tempe,2395,Tempe orek iris,No,Yes,tempe,"1/2 papan tempe (iris dadu)
+Kecap manis (secukupnya, sampai tempe berubah warna hitam)
+8 buah bawang merah (iris)
+3 buah bawang putih iris
+7 cabai merah keriting (iris)
+3 cabai rawit (iris)
+3 / 2 lembar daun salam",
+kangkung bawang tempe,2399,Sambal tempe,Yes,No,tempe,"Cabe merah
+Bawang merah
+Bawang putih
+Tomat
+Tempe
+Kentang
+Pete
+secukupnya Garam
+secukupnya Sasa
+secukupnya Gula",
+kangkung bawang tempe,2405,Oseng kangkung tempe,Yes,Yes,tempe,"1 ikat kangkung
+secukupnya Tempe
+4 siung bawang merah -iris
+3 siung bawang putih -iris
+3 bh cabe merah -potong memanjang
+Cabe rawit (optional, karena saya dan suami suka pedas)😁
+1 bh tomat
+1 sdm saos tiram
+1/4 terasi abc",
+kangkung bawang tempe,2451,Tumis tempe pete,Yes,No,tempe,"1 papan tempe
+Pete secukup nya
+3 Bawang putih iris
+5 Bawang merah iris
+1 batang Bawang pre iris
+Petis goreng
+1 sdm Gula
+1/2 sdt Garam
+Minyak untuk numis
+5 buah cabe rawit iris",
+kangkung bawang tempe,2463,Tempe Goreng Telur,No,Yes,tempe,"1 papan tempe
+1 butir telur
+2 siung bawang putih diparut (aku pake bawang putih bubuk)
+2 sdm tepung terigu
+Secukupnya garam
+Secukupnya merica",
+kangkung bawang tempe,2468,Sambal tempe,Yes,Yes,tempe,"1 lonjor tempe
+1/4 cabai rawit jablai
+1/4 cabai merah gede
+15 butir bawang merah
+10 butir bawang putih
+daun seraung/kemangi secukupnya kalo gak suka jangan d pakai
+garam
+gula
+penyedap rasa
+minyak untuk menggoreng",
+kangkung bawang tempe,2473,Urap Tempe,Yes,No,tempe,"Bumbu urap :
+2 cabe merah besar
+2 cabe kecil
+2 bawang putih
+1 ruas kencur
+8 lembar daun jeruk
+1/2 butir kelapa parut
+secukupnya Gula garam
+Pelengkap :
+Tempe dikukus
+Kemangi
+Timun diiris dadu
+Kecambah direbus sebentar
+Kangkung direbus",
+kangkung bawang tempe,2486,Tempe Penyet Pediz,Yes,Yes,tempe,"1 Papan tempe
+Bumbu tempe goreng
+1 sdm ketumbar
+2 siung bawang putih
+secukupnya Garam
+secukupnya Air
+Bahan Sambal
+25 rica rawit
+1 buah tomat
+2 siung bawang putih
+8 siung bawang merah
+secukupnya garam
+secukupnya penyedap rasa
+Minyak goreng secukupnya untuk menggoreng",
+kangkung bawang tempe,2507,Tumis kangkung sambal tempe,Yes,Yes,tempe,"1 ikat kangkung
+Secukupnya saos tiram
+Penyedap
+100 cc air
+Bumbu ulek:
+5 siung bawang merah
+3 siung bawang putih
+3 buah cabe keriting
+1/2 potong tomat
+1 sdt garam
+2 potong tipis tempe",
+kangkung bawang tempe,2516,Tempe Mendoan,No,Yes,tempe,"2 lembar tempe mendoan
+3 siung bawang putih
+1 sdm makan ketumbar
+2 cm kunyit
+1 sdt kaldu atau bisa tidak
+100 gram tepung terigu
+4 batang daun bawang
+Secukupnya air
+Secukupnya garam
+Secukupnya gula
+200 ml minyak goreng",
+kangkung bawang tempe,2569,Tempe orek,Yes,No,tempe,"Tempe
+Bawang merah
+Bawang putih
+Kecap",
+kangkung bawang tempe,2584,Sambal Bawang Tempe,Yes,Yes,tempe,"Tempe
+Bawang putih
+Garam
+Minyak
+Cabe rawit",
+kangkung bawang tempe,2743,Tumis kangkung tauco udang telur puyuh (resep kilat),Yes,Yes,udang,"3 ikat kangkung
+1 sdm bawang putih goreng
+3 sdm minyak bawang putih
+3 sdm bawang goreng
+1 sdm sambel terasi
+2 sdm tauco
+Pelengkap
+Secukupnya udang
+Secukupnya telur puyuh
+Secukupnya saos tiram",
+kangkung bawang tempe,2788,Cah kangkung udang 🍤🍤🍤,Yes,Yes,udang,"1 iket sayur kangkung
+Udang kupas yang sudah dibersihkan, sisakan bagian ekornya
+1 buah tomat
+Secukupnya lada hitam bubuk
+Kecap manis
+Sedikit Kecap asin
+Secukupnya garam dan gula
+Bumbu halus:
+5 siung bawang merah
+1 siung bawang putih
+7 buah cabai rawit",
+kangkung bawang tempe,2995,Tumis Kangkung Udang Saos Tiram,Yes,Yes,udang,"1 Ikat Kangkung
+3 buah cabe merah keriting
+5 ekor udang (+/- sesuai selera)
+4 siung bawang merah
+2 siung bawang putih
+4 buah kemiri
+1 sdm garam
+secukupnya saos tiram",
+telur tomat cabai,8,Fire Chicken Wings,Yes,No,ayam,"Bahan Ayam Goreng Tepung:
+1 Kg Sayap Ayam
+80 Gram Tepung Ayam Goreng Kentucky (Saya Merk: Sasa)
+1 Butir Telur
+Bahan Saus Fire:
+200 Gram Cabai Merah
+50 Gram Cabai Rawit
+3 Siung Bawang Putih (Secukupnya)
+8 Siung Bawang Merah (Secukupnya)
+2 Buah Tomat (Ukuran Sedang)
+50 Gram Saos Cabai
+2 Lembar Daun Jeruk
+Secukupnya Gula Merah
+2 Sdm Gula Putih
+1 Sdm Garam",
+telur tomat cabai,344,Ayam Kremes saos pedas manis,Yes,No,ayam,"1/2 kg ayam bagian dada
+1 butir telur
+1 sachet tepung bumbu ayam kremes
+5 cabai pedas (cabai rawit pedas)
+4 cabai teropong besar merah
+10 siung bawang merah
+5 siung bawang putih
+1 ruas jahe seukuran jari
+1 butir bawang bombay
+1 butir tomat ukuran sedang
+2 sendok Saos pedas
+1 sendok tepung maezena
+1 wortel ukuran sedang
+1 daun bawang
+Gula jawa secukupnya iriss lembut
+Garam secukupnya sesuai selera",
+telur tomat cabai,866,Nasi goreng ijo kambing,Yes,No,kambing,"2 piring Nasi putih
+100 gram Daging kambing (ptong dan rebus)
+2 butir Telur ayam
+5 siung bw.merah
+10 biji Cabai rawit merah
+7 biji Cabai ijo
+1 buah Tomat hijau
+2 batang Daun bawang
+secukupnya Garam
+secukupnya Kaldu bubuk
+secukupnya Kecap
+secukupnya Minyak goreng",
+telur tomat cabai,1862,Saos kentang telur sederhana,No,Yes,telur,"1 buah kentang (di iris dadu)
+2 buah tomat (di iris tipis"")
+2 telur ayam
+1 buah bawang bombay (di iris tipis"")
+secukupnya Garam
+Secukupnya Lada
+2 sendok Saos tomat ()",
+telur tomat cabai,1876,Telur ceplok kecap manis pedas,No,Yes,telur,"4 butir telur ayam
+1 butir cabai merah besar
+5 buah cabai rawit
+2 siung bawang merah
+1 siung bawah putih
+3 sdm kecap manis
+1 sdm tepung maizena
+secukupnya Air
+secukupnya Gula pasir dan penyedap rasa
+secukupnya Minyak goreng",
+telur tomat cabai,1894,Telur cabai hijau,Yes,Yes,telur,"8 butir telur ayam
+7 siung bawang merah ukurang sedang dan kecil
+3 siung bawang putih
+6 buah cabai hijau besar
+15 buah cabai rawit
+2 buah tomat hijau ukuran kecil
+1 sdt gula pasir
+1/2 sdt garam
+1/4 sdt lada bubuk
+1 sachet royco ayam
+5 sdm minyak goreng",
+telur tomat cabai,1908,Orak arik telur tomat hijau,Yes,Yes,telur,"2 butir telur
+2 buah tomat hijau
+1 siung bawang putih
+3 buah bawang merah
+8 buah cabai rawit (sesuai selera)
+1 bks merica bubuk (aq pake ladaku) / bisa di skip
+secukupnya Gula garam
+Minyak goreng",
+telur tomat cabai,1938,Gami Telur / Telur Balado Pedas Sambal Tomat,Yes,Yes,telur,"5 butir telur
+15 cabai rawit merah
+2 buah tomat
+3 bawang merah
+1 bawang putih
+Garam
+Gula
+Minyak
+Air
+Pelengkap:
+1 ikat kemangi",
+telur tomat cabai,1944,Sambel goreng kentang telur,Yes,No,telur,"1/2 kg kentang
+1/2 bungkus santan kara
+4 telur
+2 lembar daun salam
+Sejempol laos geprek
+secukupnya Garam
+1 sdt Gula pasir
+Sejempol gula jawa
+Bumbu halus:
+5 siung bawang merah
+4 siung bawang putih
+7 cabai merah
+5 cabai rawit
+2 kemiri
+1 tomat kecil",
+telur tomat cabai,1953,Telur balado,No,Yes,telur,"10 butir telur ayam
+15 buah cabai merah
+10 buah cabai rawit merah
+8 butir bawang merah
+6 butir bawang putih
+1 batang serai
+4 lembar daun salam
+Secukupnya Garam
+secukupnya Gula  (saya pakai gula merah)
+1 sdt saos tiram",
+telur tomat cabai,1958,Tongseng Ayam + Telur ceplok ala Mamud,Yes,No,telur,"1/2 kg daging ayam
+5 butir telur ayam
+1/4 kembang kol
+Bawang bombay
+Cabai rawit (sesuai selera)
+1 buah tomat
+2 lembar daun jeruk
+Bumbu halus :
+Bawang putih
+Kemiri
+Sedikit lada bubuk
+Kecap manis
+Kecap saus tiram
+Saus tomat
+Kaldu bubuk
+Garam,gula
+Minyak untuk menumis",
+telur tomat cabai,1961,66. Telur Petis,Yes,No,telur,"10 Buah Telur (Matasapi)
+8 Siung Bawang Putih
+8 Buah Bawang Merah
+10 Buah Cabai merah
+1 Buah Tomat
+1 Sdm Petis
+1 Batang Daun Bawang
+3 Cm Jahe
+4 Sdm Minyak
+250 Ml Santan
+Secukupnya Garam
+Secukupnya Kaldu Jamur
+Secukupnya Cinta dan Sayang 😍😍😍",
+telur tomat cabai,1974,Sambal Telur Balado,No,Yes,telur,"3 butir telur ayam
+4 siung bawang merah
+1 siung bawang putih
+5 buah cabai merah besar
+7 buah cabai rawit merah
+3 lembar daun salam
+Secukupnya garam
+Secukupnya micin/royco
+Secukupnya gula
+Secukupnya air
+Secukupnya minyak",
+telur tomat cabai,1980,Pecel telur,Yes,Yes,telur,"6 butir telur ayam(rebus dan kupas cangkangnya)
+10 buah cabai rawit merah
+1 buah tomat uk. sedang
+1 siung bawang putih
+1 sdm kacang goreng
+Secukupnya terasi, garam, gula dan penyedap
+2 tangkai kemangi",
+telur tomat cabai,2012,Tahu Telur Balado,No,Yes,telur,"4 butir Telur
+4 buah Tahu Putih
+Bawang Daun
+3 lembar Daun Salam
+1 buah Serai
+Secukupnya Garam
+Secukupnya Gula
+Secukupnya Lada Putih
+Secukupnya Ketumbar Bubuk
+Secukupnya Minyak Goreng
+Bumbu Halus;
+6 Cabai Merah Besar
+10 Cabai Rawit
+3 siung Bawang Merah
+4 siung Bawang Putih
+1 ruas Jahe",
+telur tomat cabai,2049,Telur rebus sambal tomat,No,Yes,telur,"2 buah telur
+1 bawang merah
+1 bawang putih
+1 tomat
+3 cabe kecil
+1 cabe merah besar
+dikit Terasi
+Garam
+Gula pasir",
+telur tomat cabai,2054,Cemilan serba telur,No,Yes,telur,"Telur sesukanya aja.... Misalnya 5 butir ni
+Minyak goreng
+Wortel
+Daun seledri
+Telur 2 butir lagi",
+telur tomat cabai,2070,Telur dadar pedasss,No,Yes,telur,"2 butir telur
+Kol
+5 Cabai merah
+5 cabai kecil merah
+2 bawang merah
+1 bawang putih
+Garam
+Lada bubuk",
+telur tomat cabai,2093,"Tumis sayur orak arik (kol, sawi, telor, baso)",Yes,No,telur,"1/2 bonggol kol
+3 batang sawi
+1 butir baso (iris)
+1 butir telur
+1 siung bawang merah (iris)
+2 buah cabai merah (iris)
+6 buah cabai rawit hijau (iris)
+Sedikit tomat (iris)
+secukupnya Air
+Gula, garam, kecap asin",
+telur tomat cabai,2102,Mie Gelas Kuah Isi Sayuran Telur Sosis #PR_AnekaMieKuah,Yes,No,telur,"2 bks mie gelas
+1 bh tomat merah, potong
+1 butir telur buat dadar, potong
+Sesuai selera sosis
+Sesuai selera sawi
+Sesuai selera cabai rawit merah",
+telur tomat cabai,2112,Balado Telur,No,Yes,telur,"250 gr telur ayam
+2 buah cabai merah
+6 buah cabai keriting
+4 buah cabai rawit
+4 siung bawang merah
+2 siung bawang putih
+1 cm lengkuas
+2 lembar daun jeruk
+1 lembar daun salam
+1 buah serai
+1 sdm gula pasir
+1/2 sdm garam
+3 sdm minyak goreng
+secukupnya Air",
+telur tomat cabai,2113,Roti telur keju,Yes,No,telur,"3 butir telur
+3 lembar roti tawar
+1/2 daun bawang (sesuai selera)
+5 lembar daun seledri (sesuai selera)
+1/2 tomat
+4 cabai merah
+secukupnya Garam
+Keju secukupnya sesuai selera
+20 ml susu cair
+Mentega untuk menggoreng",
+telur tomat cabai,2118,Terong & Telur Balado #pr_recookmasakanawalanT,Yes,No,telur,"3 buah terong potong memanjang
+2 bh telur ayam (rebus)
+Bumbu halus:
+1 bh tomat
+8 bh cabai keriting
+2 bh cabai rawit
+5 siung bawang merah
+2 siung bawang putih
+1 lmbr daun salam
+Secukupnya gula, garam & penyedap",
+telur tomat cabai,2136,Telur balado padang,No,Yes,telur,"200 gr Cabe merah
+4 butir bawang merah
+1 siung bawang putih
+1 buah tomat merah
+1/2 kg telur
+secukupnya Garam
+Penyedap rasa
+Minyak",
+telur tomat cabai,2141,Telur Ceplok Balado,Yes,Yes,telur,"6 Butir Telur Ayam
+Secukupnya Garam
+Secukupnya Gula
+Secukupnya Lada Putih
+2 Lembar Daun Salam
+1 Serai
+Secukupnya Minyak Goreng
+Bumbu Halus :
+5 Siung Bawang Merah
+4 Siung Bawang Putih
+8 Cabai Merah Besar
+5 Cabai Rawit
+1 Buah Tomat",
+telur tomat cabai,2144,Sarden with Egg and Curry Flavor,Yes,No,telur,"1 kaleng Sarden kalengan besar (425gr) Merk dan rasa apa saja
+2 butir telur rebus, kupas
+1 butir kentang uk sedang, rebus, lalu kupas dan potong mnjadi 8
+2 siung Bawang putih, cincang
+1 siung Bawang Bombay uk sedang, potong kecil-kecil
+1 btg Daun Bawang, iris
+20 buah Cabai rawit hijau atau 6 buah Cabai setan, belah jd dua
+3 buah cabai merah atau hijau Besar, iris tipis
+1 buah Tomat, belah menjadi 8 bagian
+1 sdm bumbu kari (yg original, sy merk Babas)
+secukupnya Garam
+secukupnya Gula
+1 ruas jari jahe, geprek",
+telur tomat cabai,2155,🌶 telur sambal ijo 🌶,Yes,Yes,telur,"1/2 kg telur
+200 gr cabai hijau
+1 buah tomat
+3 siung bawang merah
+3 siung bawang putih
+secukupnya Gula dan garam
+secukupnya Minyak goreng",
+telur tomat cabai,2169,Semur telur pedas,No,Yes,telur,"5 butir telur
+3 siung bawang merah
+3 siung bawang putih
+5 buah cabai merah keriting
+secukupnya Lada
+3 buah kemiri
+Pala sepucuk jari
+secukupnya Kecap manis
+secukupnya Garam
+Air secukupnya untuk merebus telur
+250 ml air
+Minyak untuk menumis",
+telur tomat cabai,2171,Telur Sambel Korek,No,Yes,telur,"3 butir telur ayam
+1 siung bawang putih
+7 buah cabai rawit
+secukupnya Gula garam",
+telur tomat cabai,2199,Balado telur,No,Yes,telur,"4 btr telur
+2 bawang putih
+4 bawang merah
+9 cabe merah keriting
+1 tomat
+1 pete
+2 kemiri
+Gula Jawa
+Garam
+Sedikit kecap",
+telur tomat cabai,2712,Udang saus tomat with scramble egg,Yes,No,udang,"1/4 kg udang
+1 bh telur ayam
+1 btg daun bawang
+1 bh bawang bombai
+3 siung bawang putih
+4 siung bawang merah
+5 bh cabai kriting
+2 bh cabe rawit merah (kalo besar bisa pakek 1 aja)
+2 sct  sauce tomat
+1 sct  saori
+1 bh jeruk nipis
+3 helai daun jeruk nipis
+sesuai selera Garam dan gula
+secukupnya Air
+sedikit penyedap",
+telur tomat cabai,2746,Tumis udang kribo,Yes,No,udang,"250 gram udang
+2 buah brokoli
+5 cabai rawit
+5 bawang merah
+3 bawang putih
+Tomat
+Gula
+Garam
+Telur",
+telur tomat cabai,2780,Udang asam manis,No,Yes,udang,"1/4 udang
+Tahu
+Tempe
+5 siung bawang merah
+2 siung bawang putih
+Cabai kecil
+Cabai besar
+Lemon/jeruk nipis
+1 buah tomat",
+telur tomat cabai,2885,Nasi Goreng Udang,Yes,No,udang,"Sesuai Keinginan Nasi
+Garam
+secukupnya Penyedap rasa
+1 butir telur kocok lepas
+Blue band
+Udang kupas bersih belah jadi 2 bagian atasnya
+Minyak goreng
+1 buah tomat
+4 siung bawang merah
+5 siung bawang putih
+Saos sambal
+Cabai rawit sesuai selera potong-potong",
+santan cabe ayam,37,Kare Ayam Khas Solo,Yes,Yes,ayam,"1 potong dada ayam
+3 buah kentang ukuran sedang
+1 ikat soun
+1 liter santan (bisa pakai santan instan yang diencerkan)
+1 buah tomat ukuran kecil
+2 lembar daun salam
+1-2 cm lengkuas (tergantung ukuran), memarkan
+2 lembar daun jeruk purut
+secukupnya Garam
+secukupnya gula putih (sbg pengganti penyedap rasa)
+secukupnya gula merah
+seledri dan bawang goreng untuk taburan
+Bumbu halus:
+5 siung bawang merah
+2 siung bawang putih
+1 butir kemiri
+1/2 sdt ketumbar
+2 cm kunir
+Sambal (jika ingin):
+1 siung bawang putih
+3 siung bawang merah
+2 buah cabe merah(atau sesuai selera)
+secukupnya cabe rawit, jika suka pedas
+secukupnya garam
+secukupnya gula merah
+5 sendok makan santan",
+santan cabe ayam,57,Tongseng Ayam ala ala,Yes,Yes,ayam,"Bumbu halus:
+5 bawang putih
+9 bawang merah
+4 cabai merah besar
+4 kemiri
+1/4 sdt ketumbar
+1/2 ayam
+1 serai
+1 tomat
+secukupnya garam
+secukupnya merica bubuk
+secukupnya royco
+secukupnya kecap
+secukupnya gula
+1/2 santan instan",
+santan cabe ayam,67,Opor Ayam Pedas,Yes,Yes,ayam,"1/2 kg ayam potong
+Bumbu Halus :
+10 siung bawang putih
+5 siung bawang merah
+4 kemiri (sangrai dulu)
+Jahe seruas jempol
+10 cabe rawit merah
+2 sdm kunyit bubuk
+1/2 sdt ketumbar bubuk
+1/2 sdt merica
+Bahan Pelengkap :
+2 ruas lengkuas geprek
+2 serai geprek
+2 lbr daun salam
+2 lbr daun jeruk
+2 bngks santan kara 65ml
+secukupnya Air (untuk campuran santan)
+1 sdt garam
+secukupnya Kaldu bubuk",
+santan cabe ayam,73,Soto ayam kediri,Yes,No,ayam,"1/4 ekor ayam (ayam kampung lebih enak)
+1/4 kg ceker atau tulang
+2 batang daun bawang
+3 batang serai
+4 lembar daun salam
+3 lembar daun jeruk
+1 ruas lengkuas
+360 ml santan jika suka pakai santan atau kurang kental kuahnya
+secukupnya Penyedap
+secukupnya Garam
+Pelengkap :
+2 batang daun sledri (cincang halus)
+Kol secukupnya iris halus
+secukupnya Tauge/kecambah kacang hijau
+2 buah kentang iris tipis-tipis (goreng kering)
+4 buah tahu (goreng,iris tipis)
+2 buah tomat potong sesuai selera
+Bawang goreng untuk taburan
+sesuai selera Kecap manis
+Bumbu halus :
+12 butir bawang merah
+8 butir bawang putih
+1 jari kunyit
+1 ruas jari jahe
+1 ruas kencur
+1/4 sdt merica
+1/2 sdt ketumbar
+3 buah kemiri",
+santan cabe ayam,94,Opor ayam lontong,Yes,Yes,ayam,"Lontong  5 buah saya beli yg sudah matang
+1/4 kg dada ayam
+Kerupuk merah
+Bumbu halus:
+5 butir bawang merah
+4 butir bawang putih
+Merica
+3 butir kemiri
+1 cm kunyit
+1 cm Jahe
+Cabe merah besar
+Cabe merah keriting
+sesuai selera Gula garam
+Penyedap rasa
+ukuran kecil Santan kara
+Minyak untuk menumis
+Bawang goreng untuk taburan
+Daun salam
+Daun sereh
+Bahan sambal:
+Cabe merah besar
+Cabe merah keriting
+Bawang putih
+secukupnya Garam",
+santan cabe ayam,97,Opor ayam kuning,Yes,Yes,ayam,"Ayam potong 10
+1/2 buah Santan
+1 sachet Kara
+2 ruas Kunyit
+sdt Jinten setenfah
+1 sachet Lada bubuk
+Bawang merah besar 8 siung dan bawang putih besar 6
+Lengkuas setengahbruas
+3 buah Kemiri
+1 sdm Ketumbar
+1 ruas Jahe
+3 lembar Daun jeruk
+2 lembar Salam
+2 batang Sereh
+5 buah Cabe keriting
+Garam
+Penyedap rasa",
+santan cabe ayam,139,Ayam Geprek,No,Yes,ayam,"4 potong ayam
+8 siung bawang putih dihaluskan
+4 sdm tepung terigu
+1 sdm tepung maizena
+Secukupnya garam
+Secukupnya merica
+Secukupnya kaldu ayam bubuk
+1 butir telur
+Bahan geprek
+4 siung bawang putih
+10 buah cabe rawit
+1 sdt garam
+1 sdt gula",
+santan cabe ayam,158,Ayam Penyet 🔥,No,Yes,ayam,"1/2 Kg Ayam
+1 Bungkus Bumbu Ayam Goreng Instan (saya Racik Indofood)
+Bumbu Yg Dihaluskan :
+13 Buah Cabe Merah Keriting
+26 Buah Cabe Rawit
+4 Siung Bawang Merah
+2 Siung Bawang Putih
+2 Buah Tomat Uk. Besar
+2 Sdt Gula Pasir
+Secukupnya Garam
+Secukupnya Terasi (bakar)",
+santan cabe ayam,171,Ayam suwir,No,Yes,ayam,"300 gr dada ayam
+65 ml santan kental
+secukupnya Air
+1 batang serai (geprek)
+3 cm lengkuas (geprek)
+2 lembar daun salam
+2 sdm air asam jawa
+secukupnya Gula
+secukupnya Garam
+Bumbu halus ungkep ayam :
+3 siung bawang putih
+1/4 sdt ketumbar
+Kencur
+2 lembar daun jeruk
+Bumbu halus untuk ayam suwir :
+5 siung bawang merah
+2 siung bawang putih
+8 biji cabai merah
+1/4 sdt terasi bakar",
+santan cabe ayam,178,Chicken Chili Glaze,Yes,No,ayam,"400 gram Ayam (3 paha utuh)
+2 sdm Blueband
+3 sdm Sambal Surabaya #lihatresep (sambal lain jg bisa)
+150 ml Santan (150 air + 1 sachet santan bubuk)
+1 buah daun salam, daun jeruk. Seiris tipis lengkuas
+1 sdt palm sugar
+1 sdt air asam jawa (lemon)",
+santan cabe ayam,190,Lawar ayam sayur kacang,No,Yes,ayam,"250 gr ayam dada kukus
+1 ikat kacang panjang potong² kukus
+1/2 bh kelapa bakar
+🌻Penglengkap
+1 bh Jeruk limau
+Bawang goreng + cabe (sambel embe)
+65 ml Santan Kara
+2 lbr Daun Salam
+1 btg Serai
+Bubuk merica
+🌻Bumbu Halus
+4 bh Bawang Merah
+2 bh Bawang Putih
+1/2 cm Kunyit
+3 cm Kencur
+1 bh Kemiri
+1 cm Jahe
+1 cm Lengkuas
+1 sdt ketumbar
+1 sdt Garam",
+santan cabe ayam,203,Opor ayam kuah kuning,Yes,Yes,ayam,"1 kg ayam
+3 lembar daun salam
+65 ml santan kara
+secukupnya garam,penyedap rasa,gulpas
+bumbu halus:
+7 siung bawang merah
+4 siung bwg putih
+1/2 sdt jinten bubuk
+1/2 sdt lada bubuk
+1/2 sdt ketumbar bubuk
+3 buah kemiri
+1 ruas kunyit
+secukupnya jahe",
+santan cabe ayam,241,Kare Ceker dan Kepala Ayam,Yes,No,ayam,"Bahan-bahan
+1/2 kg ceker dan kepala ayam
+1 ruas lengkuas, memarkan
+1 batang sereh, memarkan
+350 cc santan
+2 lembar daun jeruk purut
+Tahu putih isi 5 potong kotak goreng setengh matang
+secukupnya Garam
+secukupnya Gula
+4 sdm minyak untuk menumis
+Bawang merah goreng
+Bumbu Halus
+1/2 sendok teh ketumbar
+1 cm jahe
+1 cm kunyit
+3 siung bawang putih
+3 butir kemiri
+3 buah cabe merah
+4 buah bawang merah",
+santan cabe ayam,253,Opor Ayam Nyemek,No,Yes,ayam,"1 ekor ayam kampung
+1 gelas santan segar
+Bumbu halus:
+6 siung bawang putih
+7 siung bawang merah
+3 ruas kunyit
+3 ruas jahe
+2 ruas lengkuas
+2 lembar daun jeruk
+3 lembar daun salam
+2 batang serai
+1 sendok makan ketumbar
+4 buah kemiri
+Secukupnya gula jawa
+Secukupnya garam
+Secukupnya minyak goreng untuk menumis bumbu
+secukupnya Air",
+santan cabe ayam,270,Empedal Hati Ayam bumbu rendang,Yes,No,ayam,"8 pasang empedal hati ayam
+Bumbu halus :
+4 bh kemiri
+6 bh bawang putih
+4 bawang merah
+1 ruas jari kunyit dan laos
+10 cabe merah kecil
+1 bh santan kara 65 cc
+Daun jeruk
+Daun salam
+1 btg serai
+Gula aren
+Garam",
+santan cabe ayam,275,Ayam Kuah Bumbu Rujak tanpa MSG,No,Yes,ayam,"1 kg Ayam
+5 biji tahu dipotong segitiga
+Bahan2 utk rebus ayam:
+1 sdm tumbar
+1 siung bawang putih
+Secukupnya garam
+Secukupnya air
+Bahan2 yg dihaluskan:
+8 siung bawang merah
+2 siung bawang putih
+2 ruas kunyit
+3 buah kemiri
+4 cabe rawit
+11 cabe merah
+1 bungkus trasi dibakar
+Bahan2 yg dicampurkan:
+3 daun jeruk
+2 daun salam
+1 batang serai
+3 biji asam jawa dilarutkan ke air
+1/2 kg santan murni
+Secukupnya gula merah, garam
+Minyak goreng",
+santan cabe ayam,293,Ayam lodho pedas,No,Yes,ayam,"1 kg ayam (kalau pakai ayam kampung, 1 ekor ayam kampung ya..)
+1/2 butir kelapa santan, ambil sarinya
+3 batang sereh, geprek
+2 ruas jahe, geprek
+2 ruas lengkuas, geprek
+3 lembar daun jeruk
+3 lembar daun salam
+Secukupnya garam
+Secukupnya kaldu bubuk
+Bumbu halus 1:
+5 siung bawang putih
+1/2 sdt ketumbar
+2 ruas kunyit bakar
+Bumbu halus 2:
+1 sdt ketumbar
+1 ruas kencur
+5 siung bawang putih
+7 siung bawang merah
+15 buah cabe rawit
+2 buah cabe besar
+3 ruas kunyit bakar
+3 buah kemiri",
+santan cabe ayam,300,Opor Ayam,Yes,Yes,ayam,"1 ekor ayam
+1 1/2 liter santan encer
+200 ml santan kental atau 1 bungkus kara
+1 batang serai memarkan
+2 lembar daun salam atau daun pandan (optional antara keduanya)
+2 lembar daun jeruk
+Bumbu Halus:
+8 buah bawang merah
+4 siung bawang putih
+1 sdt ketumbar
+1/2 sdt jintan
+2 ruas lengkuas
+5 biji kemiri
+1/2 sdt merica
+2 sdt garam
+1/2 sdm gula",
+santan cabe ayam,327,Opor Ayam,Yes,Yes,ayam,"1 kg ayam
+1 bks santan kara
+Salam
+Laos
+Daun jeruk
+Sereh
+Kaldu bubuk
+Gula dan garam
+Merica bubuk
+Air
+Bumbu halus :
+Bawang merah
+Bawang putih
+Jahe
+Kunir
+Ketumbar
+Kemiri",
+santan cabe ayam,627,Tongkol Kuah Lemak with Kacang Panjang,No,Yes,ikan,"250 gr tongkol, potong sesuai selera
+150 gr kacang panjang, potong ukuran dua ruas jari
+1 Batang serai, geprek
+1 buah bawang merah, iris tipis
+Secukupnya garam
+1/2 butir kelapa ukuran sedang, kukur
+1500 ml air
+🌸Bumbu Halus🌸
+5 buah Cabai merah
+20 buah cabai rawit
+2 buah bawang merah
+6 buah asam sunti
+1 ruas jari kunyit
+1/2 ruas jari jahe",
+santan cabe ayam,1284,Rendang Daging Sapi,No,Yes,sapi,"1 kg daging sapi potong potong (ukuran sesuai selera)
+2 kaleng santan cair(@800ml)
+5 siung bawang merah diiris tipis tipis
+2 siung bawang putih diiris tipis
+Garam
+Merica
+Kaldu sapi
+2 lbr daun jeruk
+1 lbr daun salam
+1 sdm kunyit bubuk
+4 buah cabe kering iris tipis",
+santan cabe ayam,1531,Sayur lombok ayam tahu,Yes,Yes,tahu,"1/2 kg ayam (digoreng dulu)
+10 buah tahu kuning yg sudah d goreng
+10 buah  Cabai rawit utuh ya.
+2 daun jeruk
+2 buah cabai ijo (iris kasar()
+Bumbu halus :
+3 siung bawang putih
+5 siung bawang merah
+2 cabe merah besar
+2 kemiri
+1/2 sdt ketumbar
+100 ml santan
+Minyak goreng
+secukupnya Garam gula",
+santan cabe ayam,1826,Sayur santan telur tahu,Yes,No,telur,"6 butir telur ayam
+5 buah tahu kuning,potong jadi 2
+1 batang sereh
+1 ruas ibu jari lengkuas
+2 lbr daun salam
+130 ml santan kental (ak pake kara)
+500 ml air
+1 sdm ebi,rendam dgn sedikit air panas
+secukupnya Garam dan gula
+secukupnya Kaldu ayam
+Minyak goreng
+1 batang daun bawang,iris kasar serong
+Bawang goreng untuk taburan
+Bumbunya:
+6 siung bawang merah uk sedang
+2 siung bawang putih
+7 buah cabe merah
+5 buah rawit merah
+1/2 ruas jari kunyit tua
+2 butir kemiri sangrai",
+santan cabe ayam,1854,Santan terong dn telor,Yes,No,telur,"1 terong
+2 telor ayam (sd matng)
+Santan kelapa
+Bumbu 🍀 ulek
+1 cabe besar
+4 cabe rawit
+1 bawang putih
+1 bawang merah
+sedikit Lengkuas
+2 kemiri
+sedikit Ketumbar
+sedikit Kunyit
+1 sereh (geprek)
+Garam,penyedap rasa
+Minyak",
+santan cabe ayam,1870,Kari Ayam Telur Keto #Ketopad,Yes,Yes,telur,"2 potong paha ayam bagian bawah
+3 butir telur ayam yang sudah direbus
+3 lembar daun jeruk
+2 lembar daun salam
+2 ruas jari kayu manis
+3 buah cengkeh
+1 bunga lawang
+150 ml santan kental
+300 ml santan cair
+secukupnya Garam
+Bumbu halus:
+5 siung bawang merah
+3 siung bawang putih
+2 biji kemiri
+1 ruas kunyit
+1 buah cabe merah besar, buang bijinya
+1 sdt jinten
+1 sdt ketumbar",
+santan cabe ayam,1891,Rendang telur,Yes,No,telur,"Bahan adonan
+Telur ayam
+Tepung terigu
+Bawang merah
+Bawang putih
+Cabe
+Garam secukup nya
+Bahan lain :
+Santan
+Bumbu gulai
+Daun2
+Garam secukupnya
+Cabe",
+santan cabe ayam,2120,Opor Ayam Telur,Yes,Yes,telur,"1/2 ayam (potong kecil-kecil)
+4 telur rebus
+2 lbr salam
+1 ruas lengkuas
+1 btng serai
+1 bks santan kara kecil
+Bumbu halus:
+5 bawang merah
+5 bawang putih
+2 kemiri
+1 sdt ketumbar
+1 ruas kunyit",
+santan cabe ayam,2393,Ayam tempe kuah kental,Yes,No,tempe,"1/2 kg ayam ;potong2
+1 tempe : potong2
+5 cabe ijo : iris serong
+400 ml santan dari stengah kelapa
+bumbu halus:
+7 cabe rawit
+8 bawang merah
+6 bawang putih
+sejumput terasi
+2 kemiri
+sejumput kecil lada
+sejumput kecil ketumbar
+2 jari kencur
+2 jari kunyit
+1 jari jahe
+garam. gula. penyedap",
+santan cabe ayam,2412,"Tempe,kentang,santan pedas",Yes,No,tempe,"2 buah Tempe,  kentang, potong sesuai selera
+Santan kelapa
+5 siung bawang merah
+3 siung bawang putih
+1 batang sereh
+Seruas lengkuas
+2 lembar daun salam
+Cabe rawit + cabe kriting
+1 sachet royco ayam
+secukupnya Gula pasir,garam
+Minyak goreng",

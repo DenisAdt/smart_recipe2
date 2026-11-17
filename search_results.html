@@ -1,0 +1,268 @@
+<!DOCTYPE html><html class="light" lang="en" style=""><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Smart Recipe Planner - Search Results</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-variant": "#e4e2df",
+                        "on-tertiary-container": "#ffe6dd",
+                        "tertiary": "#823f20",
+                        "tertiary-container": "#a05636",
+                        "surface-bright": "#fbf9f6",
+                        "tertiary-fixed-dim": "#ffb597",
+                        "surface-container-low": "#f5f3f0",
+                        "background": "#fbf9f6",
+                        "tertiary-fixed": "#ffdbcd",
+                        "error": "#ba1a1a",
+                        "inverse-on-surface": "#f2f0ed",
+                        "on-secondary-fixed-variant": "#604100",
+                        "on-error": "#ffffff",
+                        "on-tertiary-fixed-variant": "#743417",
+                        "on-primary-fixed": "#111f09",
+                        "primary-fixed": "#d5e9c5",
+                        "on-error-container": "#93000a",
+                        "on-tertiary": "#ffffff",
+                        "primary": "#46573b",
+                        "inverse-surface": "#30312f",
+                        "surface-container": "#efeeeb",
+                        "on-secondary": "#ffffff",
+                        "surface-container-high": "#eae8e5",
+                        "secondary-fixed-dim": "#f4bd61",
+                        "on-tertiary-fixed": "#360f00",
+                        "outline": "#75786f",
+                        "surface-dim": "#dbdad7",
+                        "on-secondary-fixed": "#281900",
+                        "secondary": "#7e5700",
+                        "on-surface": "#1b1c1a",
+                        "on-primary-fixed-variant": "#3b4b31",
+                        "on-primary": "#ffffff",
+                        "on-surface-variant": "#444840",
+                        "error-container": "#ffdad6",
+                        "on-primary-container": "#def1cd",
+                        "inverse-primary": "#baccaa",
+                        "on-background": "#1b1c1a",
+                        "outline-variant": "#c5c8bd",
+                        "surface-tint": "#536347",
+                        "surface-container-lowest": "#ffffff",
+                        "secondary-fixed": "#ffdeac",
+                        "primary-container": "#5e6f52",
+                        "on-secondary-container": "#765100",
+                        "surface": "#fbf9f6",
+                        "surface-container-highest": "#e4e2df",
+                        "primary-fixed-dim": "#baccaa",
+                        "secondary-container": "#fec668"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                    "spacing": {
+                        "base": "8px",
+                        "gutter": "16px",
+                        "xs": "4px",
+                        "lg": "24px",
+                        "md": "16px",
+                        "sm": "8px",
+                        "container-padding": "20px",
+                        "xl": "32px"
+                    },
+                    "fontFamily": {
+                        "body-sm": ["Inter"],
+                        "label-md": ["Inter"],
+                        "label-sm": ["Inter"],
+                        "headline-lg": ["Inter"],
+                        "headline-md": ["Inter"],
+                        "body-md": ["Inter"],
+                        "headline-sm": ["Inter"],
+                        "body-lg": ["Inter"],
+                        "headline-lg-mobile": ["Inter"]
+                    },
+                    "fontSize": {
+                        "body-sm": ["14px", { "lineHeight": "20px", "fontWeight": "400" }],
+                        "label-md": ["14px", { "lineHeight": "20px", "letterSpacing": "0.01em", "fontWeight": "500" }],
+                        "label-sm": ["12px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600" }],
+                        "headline-lg": ["32px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+                        "headline-md": ["24px", { "lineHeight": "32px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "headline-lg-mobile": ["28px", { "lineHeight": "36px", "letterSpacing": "-0.02em", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+        }
+        .icon-fill {
+            font-variation-settings: 'FILL' 1, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+        }
+        .organic-shadow {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+        }
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-background text-on-background font-body-md antialiased min-h-screen flex flex-col pb-32">
+<!-- TopAppBar from JSON -->
+<header class="flex justify-between items-center w-full px-container-padding py-md bg-background dark:bg-background docked full-width top-0 z-40 relative">
+<div class="flex items-center gap-md">
+<div class="w-10 h-10 rounded-full overflow-hidden bg-surface-container-high border border-outline-variant/30 flex items-center justify-center">
+<span class="material-symbols-outlined text-primary">person</span>
+</div>
+<h1 class="font-headline-sm text-headline-sm font-semibold text-primary dark:text-primary-fixed">Good Morning</h1>
+</div>
+<button class="w-10 h-10 flex items-center justify-center rounded-full text-primary dark:text-primary-fixed hover:opacity-80 transition-opacity">
+<span class="material-symbols-outlined text-[24px]">notifications</span>
+</button>
+</header>
+<main class="flex-1 flex flex-col px-container-padding mt-md">
+<!-- Search Input Context -->
+<div class="w-full bg-[#F2EEE9] rounded-[12px] h-12 px-md flex items-center gap-sm mb-lg focus-within:ring-2 focus-within:ring-primary/20 transition-shadow">
+<span class="material-symbols-outlined text-on-surface-variant">search</span>
+<input class="w-full bg-transparent border-none p-0 text-on-surface font-body-md focus:ring-0 placeholder:text-on-surface-variant/50" readonly="" type="text" value="Chicken recipes under 45m">
+<button class="text-on-surface-variant p-xs hover:text-primary transition-colors">
+<span class="material-symbols-outlined">tune</span>
+</button>
+</div>
+<div class="flex items-center justify-between mb-md">
+<h2 class="font-headline-sm text-headline-sm text-on-surface">12 matching recipes found</h2>
+<span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-widest">Relevance</span>
+</div>
+<!-- Recipe Cards List -->
+<div class="flex flex-col gap-lg pb-xl">
+<!-- Card 1 -->
+<article class="bg-surface-container-lowest rounded-[16px] border border-[#E9E2DA] organic-shadow flex flex-col overflow-hidden relative group">
+<div class="h-[180px] w-full relative"><div class="absolute top-sm left-sm z-10 bg-surface-container-highest/80 backdrop-blur-sm px-sm py-xs rounded-full border border-outline-variant/30">
+  <span class="font-label-sm text-label-sm text-on-surface">#1</span>
+</div>
+<div class="w-full h-full bg-cover bg-center" data-alt="A beautiful editorial food photography shot of Ayam Betutu (Balinese spiced chicken). The dish is plated on a matte ceramic off-white plate, resting on a textured wooden table. Soft, natural morning light streams in from the side, casting gentle, organic shadows. The styling is minimalist, warm, and highly professional, fitting a high-end cozy modern organic aesthetic." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBk5yTu6SCoOhEYkiPsSW26xprDAY5SvTwlY87RMQSwaUvKQfm2Qm0h7wmuywfmWH8HiFwAZXb93Qi3GBmgKcwJIarGzYjmKFuR8ovQ2TbPqFr1alS5DQxkKbJViz5yb_4C3mT_MJJGDR13oU0lXaYHzJP-_jQBTpDxKgYKvmtptfu-Pz2Mlew_UzL2mugrB1ryzZUOJwrpiV1LzdAZJUgMkvu7Vh47uZKw1QEKn8YDt46tY9IgmbRd')"></div>
+
+
+</div>
+<div class="p-md flex flex-col gap-sm">
+<div class="flex justify-between items-start gap-md">
+<h3 class="font-headline-sm text-headline-sm text-on-surface leading-tight">Ayam Betutu</h3>
+<div class="bg-primary-container text-on-primary-container rounded-full px-sm py-[2px] flex items-center gap-xs whitespace-nowrap">
+<span class="material-symbols-outlined text-[14px] icon-fill">auto_awesome</span>
+<span class="font-label-sm text-label-sm">85% Match</span>
+</div>
+</div>
+<div class="flex flex-wrap gap-md items-center mt-xs">
+<div class="flex items-center gap-xs text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span class="font-label-sm text-label-sm">45m</span>
+</div>
+<div class="w-1 h-1 rounded-full bg-surface-variant"></div>
+<div class="flex items-center gap-xs text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]">signal_cellular_alt</span>
+<span class="font-label-sm text-label-sm">Medium</span>
+</div>
+</div>
+<div class="mt-sm">
+
+<div class="flex flex-wrap gap-xs">
+<span class="bg-[#F2EEE9] text-on-surface px-sm py-[4px] rounded-full font-body-sm text-body-sm">Chicken</span>
+<span class="bg-[#F2EEE9] text-on-surface px-sm py-[4px] rounded-full font-body-sm text-body-sm">Lemongrass</span>
+<span class="bg-[#F2EEE9] text-on-surface px-sm py-[4px] rounded-full font-body-sm text-body-sm">Turmeric</span>
+<span class="text-on-surface-variant/60 font-body-sm text-body-sm self-center ml-xs">+4 more</span>
+</div>
+</div>
+<div class="mt-auto pt-sm border-t border-surface-variant/30 flex justify-end">
+<span class="font-label-sm text-[10px] text-on-surface-variant/40 tracking-wider">BM25 SCORE: 4.82</span>
+</div>
+</div>
+</article>
+<!-- Card 2 -->
+<article class="bg-surface-container-lowest rounded-[16px] border border-[#E9E2DA] organic-shadow flex flex-col overflow-hidden relative group">
+<div class="h-[180px] w-full relative"><div class="absolute top-sm left-sm z-10 bg-surface-container-highest/80 backdrop-blur-sm px-sm py-xs rounded-full border border-outline-variant/30">
+  <span class="font-label-sm text-label-sm text-on-surface">#2</span>
+</div>
+<div class="w-full h-full bg-cover bg-center" data-alt="A minimalist, top-down editorial shot of Lemon Herb Roasted Chicken on a warm, earthy ceramic platter. The scene is illuminated by soft, diffused window light characteristic of Scandinavian interior photography. Accompanied by fresh rosemary sprigs and rustic bread. The color palette emphasizes warm creams, subtle olive greens, and natural wood textures, creating a serene, tactile modernism feel." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDnw3XHq1um4-1kKxbP-FxDKAzqim7XBqoBTjxGX8jFhBM5sV7W9EiVkfQ4oOvLfmFfsrGDvjSE1pyZsmS-5OmJD9UNwnTav5pKrLhAMdgZl6scyUatjqdQ63U8Oubiwir7-Nil8revfDDAnNbhy2SwkYL2eD3MOv_1g4Va9-7nANIRCQKreyvu71lstgwfMeP4k1ZI0s3k5Ikqt9HXg2CuLsUuBDfNX4QouAMPV7aEgC6zrdlLNw1u')"></div>
+
+
+</div>
+<div class="p-md flex flex-col gap-sm">
+<div class="flex justify-between items-start gap-md">
+<h3 class="font-headline-sm text-headline-sm text-on-surface leading-tight">Lemon Herb Chicken</h3>
+<div class="bg-surface-container-low text-on-surface-variant rounded-full px-sm py-[2px] flex items-center gap-xs whitespace-nowrap border border-outline-variant/30">
+<span class="font-label-sm text-label-sm">62% Match</span>
+</div>
+</div>
+<div class="flex flex-wrap gap-md items-center mt-xs">
+<div class="flex items-center gap-xs text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]">schedule</span>
+<span class="font-label-sm text-label-sm">30m</span>
+</div>
+<div class="w-1 h-1 rounded-full bg-surface-variant"></div>
+<div class="flex items-center gap-xs text-on-surface-variant">
+<span class="material-symbols-outlined text-[16px]">signal_cellular_alt_1_bar</span>
+<span class="font-label-sm text-label-sm">Easy</span>
+</div>
+</div>
+<div class="mt-sm">
+
+<div class="flex flex-wrap gap-xs">
+<span class="bg-[#F2EEE9] text-on-surface px-sm py-[4px] rounded-full font-body-sm text-body-sm">Chicken Breast</span>
+<span class="bg-[#F2EEE9] text-on-surface px-sm py-[4px] rounded-full font-body-sm text-body-sm">Lemon</span>
+</div>
+
+</div>
+<div class="mt-auto pt-sm border-t border-surface-variant/30 flex justify-end">
+<span class="font-label-sm text-[10px] text-on-surface-variant/40 tracking-wider">BM25 SCORE: 3.15</span>
+</div>
+</div>
+</article>
+</div>
+</main>
+<!-- BottomNavBar from JSON -->
+<nav class="fixed bottom-lg left-0 right-0 z-50 flex justify-around items-center px-lg py-sm mx-container-padding bg-surface-container-lowest dark:bg-surface-container-lowest border border-surface-variant/20 shadow-[0_8px_20px_rgba(0,0,0,0.06)] rounded-full max-w-md left-1/2 -translate-x-1/2 w-[calc(100%-40px)]">
+<!-- Home (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm w-16" href="#">
+<span class="material-symbols-outlined text-[24px] mb-1">home</span>
+<span class="font-label-sm text-label-sm text-[10px]">Home</span>
+</a>
+<!-- Search (Active) -->
+<a class="flex flex-col items-center justify-center text-primary dark:text-primary font-semibold hover:bg-surface-container-low rounded-full transition-colors p-sm w-16 Active: scale-90 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined text-[24px] mb-1 icon-fill">search</span>
+<span class="font-label-sm text-label-sm text-[10px]">Search</span>
+</a>
+<!-- Evaluation (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm w-16" href="#">
+<span class="material-symbols-outlined text-[24px] mb-1">analytics</span>
+<span class="font-label-sm text-label-sm text-[10px]">Evaluation</span>
+</a>
+<!-- Profile (Inactive) -->
+<a class="flex flex-col items-center justify-center text-on-surface-variant/60 dark:text-on-surface-variant/60 hover:bg-surface-container-low rounded-full transition-colors p-sm w-16" href="#">
+<span class="material-symbols-outlined text-[24px] mb-1">person</span>
+<span class="font-label-sm text-label-sm text-[10px]">Profile</span>
+</a>
+</nav>
+
+
+
+
+</body></html>
